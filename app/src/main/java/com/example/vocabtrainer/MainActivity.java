@@ -26,8 +26,8 @@ import java.util.Random;
 import java.util.Set;
 
 public class MainActivity extends Activity {
-    private static final int TOTAL_BLOCKS = 20;
-    private static final int WORDS_PER_BLOCK = 500;
+    private static final int WORDS_PER_BLOCK = 20;
+    private static final String DONT_KNOW_CHOICE = "窩不知道";
     private static final String PREFS_NAME = "vocab_progress";
     private static final String WRONG_IDS_KEY = "wrong_ids";
 
@@ -38,6 +38,13 @@ public class MainActivity extends Activity {
     private int quizIndex = 0;
     private int currentBlockNumber = 1;
     private boolean reviewingWrongWords = false;
+
+    private int getTotalBlocks() {
+        if (allWords == null || allWords.isEmpty()) {
+            return 1;
+        }
+        return (allWords.size() + WORDS_PER_BLOCK - 1) / WORDS_PER_BLOCK;
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -61,7 +68,7 @@ public class MainActivity extends Activity {
         TextView title = titleText("背單字小考");
         root.addView(title);
 
-        TextView subtitle = normalText("第 1 區已改成從 JSON 載入 500 個單字。正式版會以每 500 個單字為一區，共 20 區，總計 10,000 個單字。");
+        TextView subtitle = normalText("目前每區 " + WORDS_PER_BLOCK + " 題，依照你目前的資料自動分區。");
         subtitle.setPadding(0, dp(8), 0, dp(14));
         root.addView(subtitle);
 
@@ -73,21 +80,19 @@ public class MainActivity extends Activity {
         blocksTitle.setPadding(0, dp(18), 0, dp(8));
         root.addView(blocksTitle);
 
-        for (int row = 0; row < 10; row++) {
+        int totalBlocks = getTotalBlocks();
+        for (int row = 0; row < (totalBlocks + 1) / 2; row++) {
             LinearLayout rowLayout = new LinearLayout(this);
             rowLayout.setOrientation(LinearLayout.HORIZONTAL);
             rowLayout.setGravity(Gravity.CENTER);
 
             for (int col = 0; col < 2; col++) {
                 final int blockNumber = row * 2 + col + 1;
-                Button button = smallBlockButton("第 " + blockNumber + " 區\n" + blockRangeText(blockNumber));
-                button.setOnClickListener(v -> {
-                    if (blockNumber == 1) {
-                        startBlockQuiz(blockNumber);
-                    } else {
-                        Toast.makeText(this, "目前雛形版只有第 1 區放入 500 個 JSON 單字", Toast.LENGTH_SHORT).show();
-                    }
-                });
+                if (blockNumber > totalBlocks) {
+                    break;
+                }
+                Button button = smallBlockButton(blockButtonText(blockNumber));
+                button.setOnClickListener(v -> startBlockQuiz(blockNumber));
                 rowLayout.addView(button);
             }
 
@@ -107,22 +112,39 @@ public class MainActivity extends Activity {
 
     private String blockRangeText(int blockNumber) {
         int start = (blockNumber - 1) * WORDS_PER_BLOCK + 1;
-        int end = blockNumber * WORDS_PER_BLOCK;
-        if (blockNumber == 1) {
-            return "1–500（JSON 500 題）";
+        int end = Math.min(blockNumber * WORDS_PER_BLOCK, allWords.size());
+        return start + "–" + end;
+    }
+
+    private int getBlockQuestionCount(int blockNumber) {
+        int startIndex = (blockNumber - 1) * WORDS_PER_BLOCK;
+        if (startIndex >= allWords.size()) {
+            return 0;
         }
-        return start + "–" + end + "（尚未開放）";
+        int endIndex = Math.min(startIndex + WORDS_PER_BLOCK, allWords.size());
+        return endIndex - startIndex;
+    }
+
+    private String blockButtonText(int blockNumber) {
+        int correct = getBlockCorrect(blockNumber);
+        int total = getBlockQuestionCount(blockNumber);
+        String crown = (total > 0 && correct == total) ? " 👑" : "";
+        return "第 " + blockNumber + " 區\n"
+                + blockRangeText(blockNumber) + "\n"
+                + correct + "/" + total + crown;
     }
 
     private void startBlockQuiz(int blockNumber) {
         reviewingWrongWords = false;
         currentBlockNumber = blockNumber;
         quizWords = new ArrayList<>();
+        resetBlockProgress(blockNumber);
 
-        for (Word word : allWords) {
-            if (word.block == blockNumber) {
-                quizWords.add(word);
-            }
+        int startIndex = (blockNumber - 1) * WORDS_PER_BLOCK;
+        int endIndex = Math.min(startIndex + WORDS_PER_BLOCK, allWords.size());
+
+        for (int i = startIndex; i < endIndex; i++) {
+            quizWords.add(allWords.get(i));
         }
 
         if (quizWords.isEmpty()) {
@@ -231,6 +253,7 @@ public class MainActivity extends Activity {
         }
 
         Collections.shuffle(choices, random);
+        choices.add(DONT_KNOW_CHOICE);
         return choices;
     }
 
@@ -242,6 +265,10 @@ public class MainActivity extends Activity {
             handleCorrectAnswer(word);
         } else {
             handleWrongAnswer(word);
+        }
+
+        if (!reviewingWrongWords) {
+            updateBlockProgress(currentBlockNumber, correct);
         }
 
         quizIndex++;
@@ -273,35 +300,47 @@ public class MainActivity extends Activity {
 
         TextView wordText = titleText(word.english);
         wordText.setTextSize(38);
-        root.addView(wordText);
+        root.addView(makeSection("單字", wordText));
 
-        TextView answerInfo = normalText("詞性：" + word.partOfSpeech
-                + "\n你的答案：" + selectedChinese
-                + "\n正確答案：" + word.chinese);
-        answerInfo.setGravity(Gravity.CENTER);
-        answerInfo.setPadding(0, dp(14), 0, dp(14));
-        root.addView(answerInfo);
+        LinearLayout wordInfo = sectionContentLayout();
+        TextView posText = normalText("詞性：" + word.partOfSpeech);
+        posText.setPadding(0, 0, 0, dp(8));
+        wordInfo.addView(posText);
 
-        TextView exampleTitle = sectionText("單字延伸例句");
-        exampleTitle.setPadding(0, dp(14), 0, dp(8));
-        root.addView(exampleTitle);
+        TextView selectedAnswer = normalText("你的答案：" + selectedChinese);
+        selectedAnswer.setTextColor(correct ? Color.rgb(22, 101, 52) : Color.rgb(185, 28, 28));
+        selectedAnswer.setTypeface(Typeface.DEFAULT_BOLD);
+        selectedAnswer.setPadding(0, 0, 0, dp(8));
+        wordInfo.addView(selectedAnswer);
 
+        TextView correctAnswer = normalText("正確答案：" + word.chinese);
+        correctAnswer.setTypeface(Typeface.DEFAULT_BOLD);
+        correctAnswer.setTextColor(Color.rgb(30, 41, 59));
+        wordInfo.addView(correctAnswer);
+
+        root.addView(makeSection("作答結果", wordInfo));
+
+        LinearLayout exampleContent = sectionContentLayout();
         TextView exampleEnglish = normalText(word.exampleEnglish);
         exampleEnglish.setTextSize(18);
         exampleEnglish.setTypeface(Typeface.DEFAULT_BOLD);
-        exampleEnglish.setGravity(Gravity.CENTER);
         exampleEnglish.setPadding(dp(8), dp(8), dp(8), dp(8));
-        root.addView(exampleEnglish);
+        exampleContent.addView(exampleEnglish);
 
         TextView exampleChinese = normalText(word.exampleChinese);
         exampleChinese.setTextSize(17);
-        exampleChinese.setGravity(Gravity.CENTER);
-        exampleChinese.setPadding(dp(8), dp(4), dp(8), dp(18));
-        root.addView(exampleChinese);
+        exampleChinese.setPadding(dp(8), dp(4), dp(8), dp(8));
+        exampleContent.addView(exampleChinese);
+        root.addView(makeSection("例句", exampleContent));
 
-        addLearningTip(root, "使用情境", word.scene);
-        addLearningTip(root, "常見搭配", word.collocation);
-        addLearningTip(root, "使用提醒", word.note);
+        LinearLayout extraContent = sectionContentLayout();
+        addLearningTip(extraContent, "使用情境", word.scene);
+        addLearningTip(extraContent, "常見搭配", word.collocation);
+        addLearningTip(extraContent, "使用提醒", word.note);
+
+        if (extraContent.getChildCount() > 0) {
+            root.addView(makeSection("延伸資訊", extraContent));
+        }
 
         if (reviewingWrongWords) {
             TextView reviewInfo = normalText("錯題進度：目前已答對 " + getWrongCorrect(word.id)
@@ -432,6 +471,41 @@ public class MainActivity extends Activity {
         return "wrong_required_" + wordId;
     }
 
+    private String keyBlockCorrect(int blockNumber) {
+        return "block_correct_" + blockNumber;
+    }
+
+    private String keyBlockAnswered(int blockNumber) {
+        return "block_answered_" + blockNumber;
+    }
+
+    private int getBlockCorrect(int blockNumber) {
+        return prefs.getInt(keyBlockCorrect(blockNumber), 0);
+    }
+
+    private int getBlockAnswered(int blockNumber) {
+        return prefs.getInt(keyBlockAnswered(blockNumber), 0);
+    }
+
+    private void resetBlockProgress(int blockNumber) {
+        prefs.edit()
+                .putInt(keyBlockCorrect(blockNumber), 0)
+                .putInt(keyBlockAnswered(blockNumber), 0)
+                .apply();
+    }
+
+    private void updateBlockProgress(int blockNumber, boolean correct) {
+        int total = getBlockQuestionCount(blockNumber);
+        int answered = Math.min(getBlockAnswered(blockNumber) + 1, total);
+        int currentCorrect = getBlockCorrect(blockNumber);
+        int newCorrect = correct ? Math.min(currentCorrect + 1, total) : currentCorrect;
+
+        prefs.edit()
+                .putInt(keyBlockAnswered(blockNumber), answered)
+                .putInt(keyBlockCorrect(blockNumber), newCorrect)
+                .apply();
+    }
+
     private LinearLayout verticalRoot() {
         LinearLayout root = new LinearLayout(this);
         root.setOrientation(LinearLayout.VERTICAL);
@@ -476,6 +550,33 @@ public class MainActivity extends Activity {
         return view;
     }
 
+    private LinearLayout sectionContentLayout() {
+        LinearLayout content = new LinearLayout(this);
+        content.setOrientation(LinearLayout.VERTICAL);
+        content.setGravity(Gravity.CENTER_HORIZONTAL);
+        content.setPadding(dp(10), dp(10), dp(10), dp(10));
+        return content;
+    }
+
+    private LinearLayout makeSection(String title, View content) {
+        LinearLayout section = new LinearLayout(this);
+        section.setOrientation(LinearLayout.VERTICAL);
+        section.setBackgroundColor(Color.rgb(241, 245, 249));
+        section.setPadding(dp(12), dp(12), dp(12), dp(12));
+
+        LinearLayout.LayoutParams sectionParams = new LinearLayout.LayoutParams(
+                LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+        sectionParams.setMargins(0, dp(10), 0, dp(10));
+        section.setLayoutParams(sectionParams);
+
+        TextView titleView = sectionText(title);
+        titleView.setTextSize(18);
+        titleView.setPadding(0, 0, 0, dp(6));
+        section.addView(titleView);
+        section.addView(content);
+        return section;
+    }
+
     private Button mainButton(String text) {
         Button button = new Button(this);
         button.setText(text);
@@ -513,7 +614,7 @@ public class MainActivity extends Activity {
 
         TextView tip = normalText(label + "：\n" + value);
         tip.setGravity(Gravity.CENTER);
-        tip.setPadding(dp(8), dp(6), dp(8), dp(6));
+        tip.setPadding(dp(8), dp(6), dp(8), dp(10));
         root.addView(tip);
     }
 
