@@ -1,0 +1,4502 @@
+[
+  {
+    "id":"w001",
+    "block":1,
+    "english":"abandon",
+    "chinese":"放棄",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will abandon this task today.",
+    "exampleChinese":"我今天會放棄這個任務。"
+  },
+  {
+    "id":"w002",
+    "block":1,
+    "english":"accept",
+    "chinese":"接受",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will accept this task today.",
+    "exampleChinese":"我今天會接受這個任務。"
+  },
+  {
+    "id":"w003",
+    "block":1,
+    "english":"achieve",
+    "chinese":"達成",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will achieve this task today.",
+    "exampleChinese":"我今天會達成這個任務。"
+  },
+  {
+    "id":"w004",
+    "block":1,
+    "english":"admire",
+    "chinese":"欽佩",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will admire this task today.",
+    "exampleChinese":"我今天會欽佩這個任務。"
+  },
+  {
+    "id":"w005",
+    "block":1,
+    "english":"announce",
+    "chinese":"宣布",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will announce this task today.",
+    "exampleChinese":"我今天會宣布這個任務。"
+  },
+  {
+    "id":"w006",
+    "block":1,
+    "english":"borrow",
+    "chinese":"借入",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will borrow this task today.",
+    "exampleChinese":"我今天會借入這個任務。"
+  },
+  {
+    "id":"w007",
+    "block":1,
+    "english":"compare",
+    "chinese":"比較",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will compare this task today.",
+    "exampleChinese":"我今天會比較這個任務。"
+  },
+  {
+    "id":"w008",
+    "block":1,
+    "english":"deliver",
+    "chinese":"遞送",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will deliver this task today.",
+    "exampleChinese":"我今天會遞送這個任務。"
+  },
+  {
+    "id":"w009",
+    "block":1,
+    "english":"encourage",
+    "chinese":"鼓勵",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will encourage this task today.",
+    "exampleChinese":"我今天會鼓勵這個任務。"
+  },
+  {
+    "id":"w010",
+    "block":1,
+    "english":"improve",
+    "chinese":"改善",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will improve this task today.",
+    "exampleChinese":"我今天會改善這個任務。"
+  },
+  {
+    "id":"w011",
+    "block":1,
+    "english":"protect",
+    "chinese":"保護",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will protect this task today.",
+    "exampleChinese":"我今天會保護這個任務。"
+  },
+  {
+    "id":"w012",
+    "block":1,
+    "english":"refuse",
+    "chinese":"拒絕",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will refuse this task today.",
+    "exampleChinese":"我今天會拒絕這個任務。"
+  },
+  {
+    "id":"w013",
+    "block":1,
+    "english":"support",
+    "chinese":"支持",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will support this task today.",
+    "exampleChinese":"我今天會支持這個任務。"
+  },
+  {
+    "id":"w014",
+    "block":1,
+    "english":"develop",
+    "chinese":"發展",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will develop this task today.",
+    "exampleChinese":"我今天會發展這個任務。"
+  },
+  {
+    "id":"w015",
+    "block":1,
+    "english":"explain",
+    "chinese":"解釋",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will explain this task today.",
+    "exampleChinese":"我今天會解釋這個任務。"
+  },
+  {
+    "id":"w016",
+    "block":1,
+    "english":"arrive",
+    "chinese":"到達",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will arrive this task today.",
+    "exampleChinese":"我今天會到達這個任務。"
+  },
+  {
+    "id":"w017",
+    "block":1,
+    "english":"believe",
+    "chinese":"相信",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will believe this task today.",
+    "exampleChinese":"我今天會相信這個任務。"
+  },
+  {
+    "id":"w018",
+    "block":1,
+    "english":"collect",
+    "chinese":"收集",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will collect this task today.",
+    "exampleChinese":"我今天會收集這個任務。"
+  },
+  {
+    "id":"w019",
+    "block":1,
+    "english":"create",
+    "chinese":"創造",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will create this task today.",
+    "exampleChinese":"我今天會創造這個任務。"
+  },
+  {
+    "id":"w020",
+    "block":1,
+    "english":"decide",
+    "chinese":"決定",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will decide this task today.",
+    "exampleChinese":"我今天會決定這個任務。"
+  },
+  {
+    "id":"w021",
+    "block":1,
+    "english":"discover",
+    "chinese":"發現",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will discover this task today.",
+    "exampleChinese":"我今天會發現這個任務。"
+  },
+  {
+    "id":"w022",
+    "block":1,
+    "english":"invite",
+    "chinese":"邀請",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will invite this task today.",
+    "exampleChinese":"我今天會邀請這個任務。"
+  },
+  {
+    "id":"w023",
+    "block":1,
+    "english":"prepare",
+    "chinese":"準備",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will prepare this task today.",
+    "exampleChinese":"我今天會準備這個任務。"
+  },
+  {
+    "id":"w024",
+    "block":1,
+    "english":"remember",
+    "chinese":"記得",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will remember this task today.",
+    "exampleChinese":"我今天會記得這個任務。"
+  },
+  {
+    "id":"w025",
+    "block":1,
+    "english":"suggest",
+    "chinese":"建議",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will suggest this task today.",
+    "exampleChinese":"我今天會建議這個任務。"
+  },
+  {
+    "id":"w026",
+    "block":1,
+    "english":"avoid",
+    "chinese":"避免",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will avoid this task today.",
+    "exampleChinese":"我今天會避免這個任務。"
+  },
+  {
+    "id":"w027",
+    "block":1,
+    "english":"choose",
+    "chinese":"選擇",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will choose this task today.",
+    "exampleChinese":"我今天會選擇這個任務。"
+  },
+  {
+    "id":"w028",
+    "block":1,
+    "english":"complete",
+    "chinese":"完成",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will complete this task today.",
+    "exampleChinese":"我今天會完成這個任務。"
+  },
+  {
+    "id":"w029",
+    "block":1,
+    "english":"increase",
+    "chinese":"增加",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will increase this task today.",
+    "exampleChinese":"我今天會增加這個任務。"
+  },
+  {
+    "id":"w030",
+    "block":1,
+    "english":"reduce",
+    "chinese":"減少",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will reduce this task today.",
+    "exampleChinese":"我今天會減少這個任務。"
+  },
+  {
+    "id":"w031",
+    "block":1,
+    "english":"allow",
+    "chinese":"允許",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will allow this task today.",
+    "exampleChinese":"我今天會允許這個任務。"
+  },
+  {
+    "id":"w032",
+    "block":1,
+    "english":"answer",
+    "chinese":"回答",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will answer this task today.",
+    "exampleChinese":"我今天會回答這個任務。"
+  },
+  {
+    "id":"w033",
+    "block":1,
+    "english":"appear",
+    "chinese":"出現",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will appear this task today.",
+    "exampleChinese":"我今天會出現這個任務。"
+  },
+  {
+    "id":"w034",
+    "block":1,
+    "english":"build",
+    "chinese":"建立",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will build this task today.",
+    "exampleChinese":"我今天會建立這個任務。"
+  },
+  {
+    "id":"w035",
+    "block":1,
+    "english":"carry",
+    "chinese":"攜帶",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will carry this task today.",
+    "exampleChinese":"我今天會攜帶這個任務。"
+  },
+  {
+    "id":"w036",
+    "block":1,
+    "english":"change",
+    "chinese":"改變",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will change this task today.",
+    "exampleChinese":"我今天會改變這個任務。"
+  },
+  {
+    "id":"w037",
+    "block":1,
+    "english":"check",
+    "chinese":"檢查",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will check this task today.",
+    "exampleChinese":"我今天會檢查這個任務。"
+  },
+  {
+    "id":"w038",
+    "block":1,
+    "english":"clean",
+    "chinese":"清理",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will clean this task today.",
+    "exampleChinese":"我今天會清理這個任務。"
+  },
+  {
+    "id":"w039",
+    "block":1,
+    "english":"close",
+    "chinese":"關閉",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will close this task today.",
+    "exampleChinese":"我今天會關閉這個任務。"
+  },
+  {
+    "id":"w040",
+    "block":1,
+    "english":"continue",
+    "chinese":"繼續",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will continue this task today.",
+    "exampleChinese":"我今天會繼續這個任務。"
+  },
+  {
+    "id":"w041",
+    "block":1,
+    "english":"control",
+    "chinese":"控制",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will control this task today.",
+    "exampleChinese":"我今天會控制這個任務。"
+  },
+  {
+    "id":"w042",
+    "block":1,
+    "english":"cook",
+    "chinese":"烹飪",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will cook this task today.",
+    "exampleChinese":"我今天會烹飪這個任務。"
+  },
+  {
+    "id":"w043",
+    "block":1,
+    "english":"correct",
+    "chinese":"改正",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will correct this task today.",
+    "exampleChinese":"我今天會改正這個任務。"
+  },
+  {
+    "id":"w044",
+    "block":1,
+    "english":"cross",
+    "chinese":"穿越",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will cross this task today.",
+    "exampleChinese":"我今天會穿越這個任務。"
+  },
+  {
+    "id":"w045",
+    "block":1,
+    "english":"dance",
+    "chinese":"跳舞",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will dance this task today.",
+    "exampleChinese":"我今天會跳舞這個任務。"
+  },
+  {
+    "id":"w046",
+    "block":1,
+    "english":"describe",
+    "chinese":"描述",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will describe this task today.",
+    "exampleChinese":"我今天會描述這個任務。"
+  },
+  {
+    "id":"w047",
+    "block":1,
+    "english":"design",
+    "chinese":"設計",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will design this task today.",
+    "exampleChinese":"我今天會設計這個任務。"
+  },
+  {
+    "id":"w048",
+    "block":1,
+    "english":"draw",
+    "chinese":"畫",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will draw this task today.",
+    "exampleChinese":"我今天會畫這個任務。"
+  },
+  {
+    "id":"w049",
+    "block":1,
+    "english":"drive",
+    "chinese":"駕駛",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will drive this task today.",
+    "exampleChinese":"我今天會駕駛這個任務。"
+  },
+  {
+    "id":"w050",
+    "block":1,
+    "english":"earn",
+    "chinese":"賺取",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will earn this task today.",
+    "exampleChinese":"我今天會賺取這個任務。"
+  },
+  {
+    "id":"w051",
+    "block":1,
+    "english":"enter",
+    "chinese":"進入",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will enter this task today.",
+    "exampleChinese":"我今天會進入這個任務。"
+  },
+  {
+    "id":"w052",
+    "block":1,
+    "english":"enjoy",
+    "chinese":"享受",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will enjoy this task today.",
+    "exampleChinese":"我今天會享受這個任務。"
+  },
+  {
+    "id":"w053",
+    "block":1,
+    "english":"finish",
+    "chinese":"完成",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will finish this task today.",
+    "exampleChinese":"我今天會完成這個任務。"
+  },
+  {
+    "id":"w054",
+    "block":1,
+    "english":"follow",
+    "chinese":"跟隨",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will follow this task today.",
+    "exampleChinese":"我今天會跟隨這個任務。"
+  },
+  {
+    "id":"w055",
+    "block":1,
+    "english":"forget",
+    "chinese":"忘記",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will forget this task today.",
+    "exampleChinese":"我今天會忘記這個任務。"
+  },
+  {
+    "id":"w056",
+    "block":1,
+    "english":"gather",
+    "chinese":"收集",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will gather this task today.",
+    "exampleChinese":"我今天會收集這個任務。"
+  },
+  {
+    "id":"w057",
+    "block":1,
+    "english":"guess",
+    "chinese":"猜測",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will guess this task today.",
+    "exampleChinese":"我今天會猜測這個任務。"
+  },
+  {
+    "id":"w058",
+    "block":1,
+    "english":"handle",
+    "chinese":"處理",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will handle this task today.",
+    "exampleChinese":"我今天會處理這個任務。"
+  },
+  {
+    "id":"w059",
+    "block":1,
+    "english":"happen",
+    "chinese":"發生",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will happen this task today.",
+    "exampleChinese":"我今天會發生這個任務。"
+  },
+  {
+    "id":"w060",
+    "block":1,
+    "english":"help",
+    "chinese":"幫助",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will help this task today.",
+    "exampleChinese":"我今天會幫助這個任務。"
+  },
+  {
+    "id":"w061",
+    "block":1,
+    "english":"hide",
+    "chinese":"躲藏",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will hide this task today.",
+    "exampleChinese":"我今天會躲藏這個任務。"
+  },
+  {
+    "id":"w062",
+    "block":1,
+    "english":"hope",
+    "chinese":"希望",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will hope this task today.",
+    "exampleChinese":"我今天會希望這個任務。"
+  },
+  {
+    "id":"w063",
+    "block":1,
+    "english":"include",
+    "chinese":"包含",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will include this task today.",
+    "exampleChinese":"我今天會包含這個任務。"
+  },
+  {
+    "id":"w064",
+    "block":1,
+    "english":"join",
+    "chinese":"加入",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will join this task today.",
+    "exampleChinese":"我今天會加入這個任務。"
+  },
+  {
+    "id":"w065",
+    "block":1,
+    "english":"jump",
+    "chinese":"跳",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will jump this task today.",
+    "exampleChinese":"我今天會跳這個任務。"
+  },
+  {
+    "id":"w066",
+    "block":1,
+    "english":"keep",
+    "chinese":"保持",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will keep this task today.",
+    "exampleChinese":"我今天會保持這個任務。"
+  },
+  {
+    "id":"w067",
+    "block":1,
+    "english":"knock",
+    "chinese":"敲",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will knock this task today.",
+    "exampleChinese":"我今天會敲這個任務。"
+  },
+  {
+    "id":"w068",
+    "block":1,
+    "english":"learn",
+    "chinese":"學習",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will learn this task today.",
+    "exampleChinese":"我今天會學習這個任務。"
+  },
+  {
+    "id":"w069",
+    "block":1,
+    "english":"leave",
+    "chinese":"離開",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will leave this task today.",
+    "exampleChinese":"我今天會離開這個任務。"
+  },
+  {
+    "id":"w070",
+    "block":1,
+    "english":"listen",
+    "chinese":"聆聽",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will listen this task today.",
+    "exampleChinese":"我今天會聆聽這個任務。"
+  },
+  {
+    "id":"w071",
+    "block":1,
+    "english":"manage",
+    "chinese":"管理",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will manage this task today.",
+    "exampleChinese":"我今天會管理這個任務。"
+  },
+  {
+    "id":"w072",
+    "block":1,
+    "english":"measure",
+    "chinese":"測量",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will measure this task today.",
+    "exampleChinese":"我今天會測量這個任務。"
+  },
+  {
+    "id":"w073",
+    "block":1,
+    "english":"mention",
+    "chinese":"提到",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will mention this task today.",
+    "exampleChinese":"我今天會提到這個任務。"
+  },
+  {
+    "id":"w074",
+    "block":1,
+    "english":"notice",
+    "chinese":"注意到",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will notice this task today.",
+    "exampleChinese":"我今天會注意到這個任務。"
+  },
+  {
+    "id":"w075",
+    "block":1,
+    "english":"offer",
+    "chinese":"提供",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will offer this task today.",
+    "exampleChinese":"我今天會提供這個任務。"
+  },
+  {
+    "id":"w076",
+    "block":1,
+    "english":"open",
+    "chinese":"打開",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will open this task today.",
+    "exampleChinese":"我今天會打開這個任務。"
+  },
+  {
+    "id":"w077",
+    "block":1,
+    "english":"order",
+    "chinese":"訂購",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will order this task today.",
+    "exampleChinese":"我今天會訂購這個任務。"
+  },
+  {
+    "id":"w078",
+    "block":1,
+    "english":"paint",
+    "chinese":"上色",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will paint this task today.",
+    "exampleChinese":"我今天會上色這個任務。"
+  },
+  {
+    "id":"w079",
+    "block":1,
+    "english":"pass",
+    "chinese":"通過",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will pass this task today.",
+    "exampleChinese":"我今天會通過這個任務。"
+  },
+  {
+    "id":"w080",
+    "block":1,
+    "english":"pick",
+    "chinese":"挑選",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will pick this task today.",
+    "exampleChinese":"我今天會挑選這個任務。"
+  },
+  {
+    "id":"w081",
+    "block":1,
+    "english":"plan",
+    "chinese":"計畫",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will plan this task today.",
+    "exampleChinese":"我今天會計畫這個任務。"
+  },
+  {
+    "id":"w082",
+    "block":1,
+    "english":"practice",
+    "chinese":"練習",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will practice this task today.",
+    "exampleChinese":"我今天會練習這個任務。"
+  },
+  {
+    "id":"w083",
+    "block":1,
+    "english":"prefer",
+    "chinese":"偏好",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will prefer this task today.",
+    "exampleChinese":"我今天會偏好這個任務。"
+  },
+  {
+    "id":"w084",
+    "block":1,
+    "english":"promise",
+    "chinese":"承諾",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will promise this task today.",
+    "exampleChinese":"我今天會承諾這個任務。"
+  },
+  {
+    "id":"w085",
+    "block":1,
+    "english":"push",
+    "chinese":"推",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will push this task today.",
+    "exampleChinese":"我今天會推這個任務。"
+  },
+  {
+    "id":"w086",
+    "block":1,
+    "english":"reach",
+    "chinese":"到達",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will reach this task today.",
+    "exampleChinese":"我今天會到達這個任務。"
+  },
+  {
+    "id":"w087",
+    "block":1,
+    "english":"receive",
+    "chinese":"收到",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will receive this task today.",
+    "exampleChinese":"我今天會收到這個任務。"
+  },
+  {
+    "id":"w088",
+    "block":1,
+    "english":"repeat",
+    "chinese":"重複",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will repeat this task today.",
+    "exampleChinese":"我今天會重複這個任務。"
+  },
+  {
+    "id":"w089",
+    "block":1,
+    "english":"report",
+    "chinese":"報告",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will report this task today.",
+    "exampleChinese":"我今天會報告這個任務。"
+  },
+  {
+    "id":"w090",
+    "block":1,
+    "english":"return",
+    "chinese":"返回",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will return this task today.",
+    "exampleChinese":"我今天會返回這個任務。"
+  },
+  {
+    "id":"w091",
+    "block":1,
+    "english":"review",
+    "chinese":"複習",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will review this task today.",
+    "exampleChinese":"我今天會複習這個任務。"
+  },
+  {
+    "id":"w092",
+    "block":1,
+    "english":"save",
+    "chinese":"儲存",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will save this task today.",
+    "exampleChinese":"我今天會儲存這個任務。"
+  },
+  {
+    "id":"w093",
+    "block":1,
+    "english":"search",
+    "chinese":"搜尋",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will search this task today.",
+    "exampleChinese":"我今天會搜尋這個任務。"
+  },
+  {
+    "id":"w094",
+    "block":1,
+    "english":"select",
+    "chinese":"選擇",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will select this task today.",
+    "exampleChinese":"我今天會選擇這個任務。"
+  },
+  {
+    "id":"w095",
+    "block":1,
+    "english":"share",
+    "chinese":"分享",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will share this task today.",
+    "exampleChinese":"我今天會分享這個任務。"
+  },
+  {
+    "id":"w096",
+    "block":1,
+    "english":"show",
+    "chinese":"展示",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will show this task today.",
+    "exampleChinese":"我今天會展示這個任務。"
+  },
+  {
+    "id":"w097",
+    "block":1,
+    "english":"solve",
+    "chinese":"解決",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will solve this task today.",
+    "exampleChinese":"我今天會解決這個任務。"
+  },
+  {
+    "id":"w098",
+    "block":1,
+    "english":"spend",
+    "chinese":"花費",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will spend this task today.",
+    "exampleChinese":"我今天會花費這個任務。"
+  },
+  {
+    "id":"w099",
+    "block":1,
+    "english":"start",
+    "chinese":"開始",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will start this task today.",
+    "exampleChinese":"我今天會開始這個任務。"
+  },
+  {
+    "id":"w100",
+    "block":1,
+    "english":"stop",
+    "chinese":"停止",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will stop this task today.",
+    "exampleChinese":"我今天會停止這個任務。"
+  },
+  {
+    "id":"w101",
+    "block":1,
+    "english":"study",
+    "chinese":"讀書",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will study this task today.",
+    "exampleChinese":"我今天會讀書這個任務。"
+  },
+  {
+    "id":"w102",
+    "block":1,
+    "english":"teach",
+    "chinese":"教",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will teach this task today.",
+    "exampleChinese":"我今天會教這個任務。"
+  },
+  {
+    "id":"w103",
+    "block":1,
+    "english":"travel",
+    "chinese":"旅行",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will travel this task today.",
+    "exampleChinese":"我今天會旅行這個任務。"
+  },
+  {
+    "id":"w104",
+    "block":1,
+    "english":"understand",
+    "chinese":"理解",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will understand this task today.",
+    "exampleChinese":"我今天會理解這個任務。"
+  },
+  {
+    "id":"w105",
+    "block":1,
+    "english":"use",
+    "chinese":"使用",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will use this task today.",
+    "exampleChinese":"我今天會使用這個任務。"
+  },
+  {
+    "id":"w106",
+    "block":1,
+    "english":"visit",
+    "chinese":"拜訪",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will visit this task today.",
+    "exampleChinese":"我今天會拜訪這個任務。"
+  },
+  {
+    "id":"w107",
+    "block":1,
+    "english":"wait",
+    "chinese":"等待",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will wait this task today.",
+    "exampleChinese":"我今天會等待這個任務。"
+  },
+  {
+    "id":"w108",
+    "block":1,
+    "english":"walk",
+    "chinese":"走路",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will walk this task today.",
+    "exampleChinese":"我今天會走路這個任務。"
+  },
+  {
+    "id":"w109",
+    "block":1,
+    "english":"watch",
+    "chinese":"觀看",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will watch this task today.",
+    "exampleChinese":"我今天會觀看這個任務。"
+  },
+  {
+    "id":"w110",
+    "block":1,
+    "english":"write",
+    "chinese":"寫",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will write this task today.",
+    "exampleChinese":"我今天會寫這個任務。"
+  },
+  {
+    "id":"w111",
+    "block":1,
+    "english":"yell",
+    "chinese":"大喊",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will yell this task today.",
+    "exampleChinese":"我今天會大喊這個任務。"
+  },
+  {
+    "id":"w112",
+    "block":1,
+    "english":"zoom",
+    "chinese":"快速移動",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will zoom this task today.",
+    "exampleChinese":"我今天會快速移動這個任務。"
+  },
+  {
+    "id":"w113",
+    "block":1,
+    "english":"organize",
+    "chinese":"整理",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will organize this task today.",
+    "exampleChinese":"我今天會整理這個任務。"
+  },
+  {
+    "id":"w114",
+    "block":1,
+    "english":"translate",
+    "chinese":"翻譯",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will translate this task today.",
+    "exampleChinese":"我今天會翻譯這個任務。"
+  },
+  {
+    "id":"w115",
+    "block":1,
+    "english":"exercise",
+    "chinese":"運動",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will exercise this task today.",
+    "exampleChinese":"我今天會運動這個任務。"
+  },
+  {
+    "id":"w116",
+    "block":1,
+    "english":"discuss",
+    "chinese":"討論",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will discuss this task today.",
+    "exampleChinese":"我今天會討論這個任務。"
+  },
+  {
+    "id":"w117",
+    "block":1,
+    "english":"introduce",
+    "chinese":"介紹",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will introduce this task today.",
+    "exampleChinese":"我今天會介紹這個任務。"
+  },
+  {
+    "id":"w118",
+    "block":1,
+    "english":"reply",
+    "chinese":"回覆",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will reply this task today.",
+    "exampleChinese":"我今天會回覆這個任務。"
+  },
+  {
+    "id":"w119",
+    "block":1,
+    "english":"pack",
+    "chinese":"打包",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will pack this task today.",
+    "exampleChinese":"我今天會打包這個任務。"
+  },
+  {
+    "id":"w120",
+    "block":1,
+    "english":"ancient",
+    "chinese":"古老的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very ancient idea.",
+    "exampleChinese":"這是一個非常古老的的想法。"
+  },
+  {
+    "id":"w121",
+    "block":1,
+    "english":"brave",
+    "chinese":"勇敢的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very brave idea.",
+    "exampleChinese":"這是一個非常勇敢的的想法。"
+  },
+  {
+    "id":"w122",
+    "block":1,
+    "english":"calm",
+    "chinese":"冷靜的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very calm idea.",
+    "exampleChinese":"這是一個非常冷靜的的想法。"
+  },
+  {
+    "id":"w123",
+    "block":1,
+    "english":"careful",
+    "chinese":"小心的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very careful idea.",
+    "exampleChinese":"這是一個非常小心的的想法。"
+  },
+  {
+    "id":"w124",
+    "block":1,
+    "english":"creative",
+    "chinese":"有創意的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very creative idea.",
+    "exampleChinese":"這是一個非常有創意的的想法。"
+  },
+  {
+    "id":"w125",
+    "block":1,
+    "english":"dangerous",
+    "chinese":"危險的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very dangerous idea.",
+    "exampleChinese":"這是一個非常危險的的想法。"
+  },
+  {
+    "id":"w126",
+    "block":1,
+    "english":"familiar",
+    "chinese":"熟悉的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very familiar idea.",
+    "exampleChinese":"這是一個非常熟悉的的想法。"
+  },
+  {
+    "id":"w127",
+    "block":1,
+    "english":"honest",
+    "chinese":"誠實的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very honest idea.",
+    "exampleChinese":"這是一個非常誠實的的想法。"
+  },
+  {
+    "id":"w128",
+    "block":1,
+    "english":"modern",
+    "chinese":"現代的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very modern idea.",
+    "exampleChinese":"這是一個非常現代的的想法。"
+  },
+  {
+    "id":"w129",
+    "block":1,
+    "english":"patient",
+    "chinese":"有耐心的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very patient idea.",
+    "exampleChinese":"這是一個非常有耐心的的想法。"
+  },
+  {
+    "id":"w130",
+    "block":1,
+    "english":"bright",
+    "chinese":"明亮的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very bright idea.",
+    "exampleChinese":"這是一個非常明亮的的想法。"
+  },
+  {
+    "id":"w131",
+    "block":1,
+    "english":"empty",
+    "chinese":"空的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very empty idea.",
+    "exampleChinese":"這是一個非常空的的想法。"
+  },
+  {
+    "id":"w132",
+    "block":1,
+    "english":"famous",
+    "chinese":"有名的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very famous idea.",
+    "exampleChinese":"這是一個非常有名的的想法。"
+  },
+  {
+    "id":"w133",
+    "block":1,
+    "english":"healthy",
+    "chinese":"健康的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very healthy idea.",
+    "exampleChinese":"這是一個非常健康的的想法。"
+  },
+  {
+    "id":"w134",
+    "block":1,
+    "english":"useful",
+    "chinese":"有用的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very useful idea.",
+    "exampleChinese":"這是一個非常有用的的想法。"
+  },
+  {
+    "id":"w135",
+    "block":1,
+    "english":"active",
+    "chinese":"活躍的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very active idea.",
+    "exampleChinese":"這是一個非常活躍的的想法。"
+  },
+  {
+    "id":"w136",
+    "block":1,
+    "english":"basic",
+    "chinese":"基本的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very basic idea.",
+    "exampleChinese":"這是一個非常基本的的想法。"
+  },
+  {
+    "id":"w137",
+    "block":1,
+    "english":"common",
+    "chinese":"常見的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very common idea.",
+    "exampleChinese":"這是一個非常常見的的想法。"
+  },
+  {
+    "id":"w138",
+    "block":1,
+    "english":"difficult",
+    "chinese":"困難的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very difficult idea.",
+    "exampleChinese":"這是一個非常困難的的想法。"
+  },
+  {
+    "id":"w139",
+    "block":1,
+    "english":"excellent",
+    "chinese":"優秀的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very excellent idea.",
+    "exampleChinese":"這是一個非常優秀的的想法。"
+  },
+  {
+    "id":"w140",
+    "block":1,
+    "english":"fresh",
+    "chinese":"新鮮的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very fresh idea.",
+    "exampleChinese":"這是一個非常新鮮的的想法。"
+  },
+  {
+    "id":"w141",
+    "block":1,
+    "english":"gentle",
+    "chinese":"溫柔的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very gentle idea.",
+    "exampleChinese":"這是一個非常溫柔的的想法。"
+  },
+  {
+    "id":"w142",
+    "block":1,
+    "english":"local",
+    "chinese":"當地的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very local idea.",
+    "exampleChinese":"這是一個非常當地的的想法。"
+  },
+  {
+    "id":"w143",
+    "block":1,
+    "english":"serious",
+    "chinese":"嚴肅的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very serious idea.",
+    "exampleChinese":"這是一個非常嚴肅的的想法。"
+  },
+  {
+    "id":"w144",
+    "block":1,
+    "english":"simple",
+    "chinese":"簡單的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very simple idea.",
+    "exampleChinese":"這是一個非常簡單的的想法。"
+  },
+  {
+    "id":"w145",
+    "block":1,
+    "english":"central",
+    "chinese":"中央的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very central idea.",
+    "exampleChinese":"這是一個非常中央的的想法。"
+  },
+  {
+    "id":"w146",
+    "block":1,
+    "english":"direct",
+    "chinese":"直接的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very direct idea.",
+    "exampleChinese":"這是一個非常直接的的想法。"
+  },
+  {
+    "id":"w147",
+    "block":1,
+    "english":"normal",
+    "chinese":"正常的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very normal idea.",
+    "exampleChinese":"這是一個非常正常的的想法。"
+  },
+  {
+    "id":"w148",
+    "block":1,
+    "english":"private",
+    "chinese":"私人的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very private idea.",
+    "exampleChinese":"這是一個非常私人的的想法。"
+  },
+  {
+    "id":"w149",
+    "block":1,
+    "english":"valuable",
+    "chinese":"有價值的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very valuable idea.",
+    "exampleChinese":"這是一個非常有價值的的想法。"
+  },
+  {
+    "id":"w150",
+    "block":1,
+    "english":"available",
+    "chinese":"可取得的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very available idea.",
+    "exampleChinese":"這是一個非常可取得的的想法。"
+  },
+  {
+    "id":"w151",
+    "block":1,
+    "english":"beautiful",
+    "chinese":"美麗的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very beautiful idea.",
+    "exampleChinese":"這是一個非常美麗的的想法。"
+  },
+  {
+    "id":"w152",
+    "block":1,
+    "english":"busy",
+    "chinese":"忙碌的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very busy idea.",
+    "exampleChinese":"這是一個非常忙碌的的想法。"
+  },
+  {
+    "id":"w153",
+    "block":1,
+    "english":"cheap",
+    "chinese":"便宜的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very cheap idea.",
+    "exampleChinese":"這是一個非常便宜的的想法。"
+  },
+  {
+    "id":"w154",
+    "block":1,
+    "english":"clean",
+    "chinese":"乾淨的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very clean idea.",
+    "exampleChinese":"這是一個非常乾淨的的想法。"
+  },
+  {
+    "id":"w155",
+    "block":1,
+    "english":"clear",
+    "chinese":"清楚的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very clear idea.",
+    "exampleChinese":"這是一個非常清楚的的想法。"
+  },
+  {
+    "id":"w156",
+    "block":1,
+    "english":"comfortable",
+    "chinese":"舒適的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very comfortable idea.",
+    "exampleChinese":"這是一個非常舒適的的想法。"
+  },
+  {
+    "id":"w157",
+    "block":1,
+    "english":"convenient",
+    "chinese":"方便的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very convenient idea.",
+    "exampleChinese":"這是一個非常方便的的想法。"
+  },
+  {
+    "id":"w158",
+    "block":1,
+    "english":"correct",
+    "chinese":"正確的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very correct idea.",
+    "exampleChinese":"這是一個非常正確的的想法。"
+  },
+  {
+    "id":"w159",
+    "block":1,
+    "english":"daily",
+    "chinese":"每日的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very daily idea.",
+    "exampleChinese":"這是一個非常每日的的想法。"
+  },
+  {
+    "id":"w160",
+    "block":1,
+    "english":"dark",
+    "chinese":"黑暗的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very dark idea.",
+    "exampleChinese":"這是一個非常黑暗的的想法。"
+  },
+  {
+    "id":"w161",
+    "block":1,
+    "english":"delicious",
+    "chinese":"美味的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very delicious idea.",
+    "exampleChinese":"這是一個非常美味的的想法。"
+  },
+  {
+    "id":"w162",
+    "block":1,
+    "english":"different",
+    "chinese":"不同的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very different idea.",
+    "exampleChinese":"這是一個非常不同的的想法。"
+  },
+  {
+    "id":"w163",
+    "block":1,
+    "english":"early",
+    "chinese":"早的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very early idea.",
+    "exampleChinese":"這是一個非常早的的想法。"
+  },
+  {
+    "id":"w164",
+    "block":1,
+    "english":"easy",
+    "chinese":"容易的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very easy idea.",
+    "exampleChinese":"這是一個非常容易的的想法。"
+  },
+  {
+    "id":"w165",
+    "block":1,
+    "english":"effective",
+    "chinese":"有效的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very effective idea.",
+    "exampleChinese":"這是一個非常有效的的想法。"
+  },
+  {
+    "id":"w166",
+    "block":1,
+    "english":"friendly",
+    "chinese":"友善的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very friendly idea.",
+    "exampleChinese":"這是一個非常友善的的想法。"
+  },
+  {
+    "id":"w167",
+    "block":1,
+    "english":"full",
+    "chinese":"滿的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very full idea.",
+    "exampleChinese":"這是一個非常滿的的想法。"
+  },
+  {
+    "id":"w168",
+    "block":1,
+    "english":"general",
+    "chinese":"一般的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very general idea.",
+    "exampleChinese":"這是一個非常一般的的想法。"
+  },
+  {
+    "id":"w169",
+    "block":1,
+    "english":"happy",
+    "chinese":"快樂的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very happy idea.",
+    "exampleChinese":"這是一個非常快樂的的想法。"
+  },
+  {
+    "id":"w170",
+    "block":1,
+    "english":"important",
+    "chinese":"重要的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very important idea.",
+    "exampleChinese":"這是一個非常重要的的想法。"
+  },
+  {
+    "id":"w171",
+    "block":1,
+    "english":"interesting",
+    "chinese":"有趣的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very interesting idea.",
+    "exampleChinese":"這是一個非常有趣的的想法。"
+  },
+  {
+    "id":"w172",
+    "block":1,
+    "english":"kind",
+    "chinese":"善良的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very kind idea.",
+    "exampleChinese":"這是一個非常善良的的想法。"
+  },
+  {
+    "id":"w173",
+    "block":1,
+    "english":"large",
+    "chinese":"大的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very large idea.",
+    "exampleChinese":"這是一個非常大的的想法。"
+  },
+  {
+    "id":"w174",
+    "block":1,
+    "english":"late",
+    "chinese":"晚的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very late idea.",
+    "exampleChinese":"這是一個非常晚的的想法。"
+  },
+  {
+    "id":"w175",
+    "block":1,
+    "english":"lucky",
+    "chinese":"幸運的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very lucky idea.",
+    "exampleChinese":"這是一個非常幸運的的想法。"
+  },
+  {
+    "id":"w176",
+    "block":1,
+    "english":"main",
+    "chinese":"主要的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very main idea.",
+    "exampleChinese":"這是一個非常主要的的想法。"
+  },
+  {
+    "id":"w177",
+    "block":1,
+    "english":"natural",
+    "chinese":"自然的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very natural idea.",
+    "exampleChinese":"這是一個非常自然的的想法。"
+  },
+  {
+    "id":"w178",
+    "block":1,
+    "english":"necessary",
+    "chinese":"必要的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very necessary idea.",
+    "exampleChinese":"這是一個非常必要的的想法。"
+  },
+  {
+    "id":"w179",
+    "block":1,
+    "english":"new",
+    "chinese":"新的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very new idea.",
+    "exampleChinese":"這是一個非常新的的想法。"
+  },
+  {
+    "id":"w180",
+    "block":1,
+    "english":"open",
+    "chinese":"開放的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very open idea.",
+    "exampleChinese":"這是一個非常開放的的想法。"
+  },
+  {
+    "id":"w181",
+    "block":1,
+    "english":"perfect",
+    "chinese":"完美的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very perfect idea.",
+    "exampleChinese":"這是一個非常完美的的想法。"
+  },
+  {
+    "id":"w182",
+    "block":1,
+    "english":"popular",
+    "chinese":"受歡迎的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very popular idea.",
+    "exampleChinese":"這是一個非常受歡迎的的想法。"
+  },
+  {
+    "id":"w183",
+    "block":1,
+    "english":"possible",
+    "chinese":"可能的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very possible idea.",
+    "exampleChinese":"這是一個非常可能的的想法。"
+  },
+  {
+    "id":"w184",
+    "block":1,
+    "english":"powerful",
+    "chinese":"強大的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very powerful idea.",
+    "exampleChinese":"這是一個非常強大的的想法。"
+  },
+  {
+    "id":"w185",
+    "block":1,
+    "english":"public",
+    "chinese":"公開的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very public idea.",
+    "exampleChinese":"這是一個非常公開的的想法。"
+  },
+  {
+    "id":"w186",
+    "block":1,
+    "english":"quick",
+    "chinese":"快速的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very quick idea.",
+    "exampleChinese":"這是一個非常快速的的想法。"
+  },
+  {
+    "id":"w187",
+    "block":1,
+    "english":"quiet",
+    "chinese":"安靜的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very quiet idea.",
+    "exampleChinese":"這是一個非常安靜的的想法。"
+  },
+  {
+    "id":"w188",
+    "block":1,
+    "english":"ready",
+    "chinese":"準備好的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very ready idea.",
+    "exampleChinese":"這是一個非常準備好的的想法。"
+  },
+  {
+    "id":"w189",
+    "block":1,
+    "english":"real",
+    "chinese":"真實的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very real idea.",
+    "exampleChinese":"這是一個非常真實的的想法。"
+  },
+  {
+    "id":"w190",
+    "block":1,
+    "english":"regular",
+    "chinese":"規律的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very regular idea.",
+    "exampleChinese":"這是一個非常規律的的想法。"
+  },
+  {
+    "id":"w191",
+    "block":1,
+    "english":"rich",
+    "chinese":"富有的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very rich idea.",
+    "exampleChinese":"這是一個非常富有的的想法。"
+  },
+  {
+    "id":"w192",
+    "block":1,
+    "english":"safe",
+    "chinese":"安全的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very safe idea.",
+    "exampleChinese":"這是一個非常安全的的想法。"
+  },
+  {
+    "id":"w193",
+    "block":1,
+    "english":"short",
+    "chinese":"短的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very short idea.",
+    "exampleChinese":"這是一個非常短的的想法。"
+  },
+  {
+    "id":"w194",
+    "block":1,
+    "english":"slow",
+    "chinese":"慢的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very slow idea.",
+    "exampleChinese":"這是一個非常慢的的想法。"
+  },
+  {
+    "id":"w195",
+    "block":1,
+    "english":"smart",
+    "chinese":"聰明的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very smart idea.",
+    "exampleChinese":"這是一個非常聰明的的想法。"
+  },
+  {
+    "id":"w196",
+    "block":1,
+    "english":"special",
+    "chinese":"特別的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very special idea.",
+    "exampleChinese":"這是一個非常特別的的想法。"
+  },
+  {
+    "id":"w197",
+    "block":1,
+    "english":"strong",
+    "chinese":"強壯的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very strong idea.",
+    "exampleChinese":"這是一個非常強壯的的想法。"
+  },
+  {
+    "id":"w198",
+    "block":1,
+    "english":"successful",
+    "chinese":"成功的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very successful idea.",
+    "exampleChinese":"這是一個非常成功的的想法。"
+  },
+  {
+    "id":"w199",
+    "block":1,
+    "english":"sweet",
+    "chinese":"甜的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very sweet idea.",
+    "exampleChinese":"這是一個非常甜的的想法。"
+  },
+  {
+    "id":"w200",
+    "block":1,
+    "english":"tall",
+    "chinese":"高的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very tall idea.",
+    "exampleChinese":"這是一個非常高的的想法。"
+  },
+  {
+    "id":"w201",
+    "block":1,
+    "english":"terrible",
+    "chinese":"糟糕的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very terrible idea.",
+    "exampleChinese":"這是一個非常糟糕的的想法。"
+  },
+  {
+    "id":"w202",
+    "block":1,
+    "english":"thin",
+    "chinese":"瘦的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very thin idea.",
+    "exampleChinese":"這是一個非常瘦的的想法。"
+  },
+  {
+    "id":"w203",
+    "block":1,
+    "english":"tiny",
+    "chinese":"很小的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very tiny idea.",
+    "exampleChinese":"這是一個非常很小的的想法。"
+  },
+  {
+    "id":"w204",
+    "block":1,
+    "english":"traditional",
+    "chinese":"傳統的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very traditional idea.",
+    "exampleChinese":"這是一個非常傳統的的想法。"
+  },
+  {
+    "id":"w205",
+    "block":1,
+    "english":"warm",
+    "chinese":"溫暖的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very warm idea.",
+    "exampleChinese":"這是一個非常溫暖的的想法。"
+  },
+  {
+    "id":"w206",
+    "block":1,
+    "english":"weak",
+    "chinese":"虛弱的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very weak idea.",
+    "exampleChinese":"這是一個非常虛弱的的想法。"
+  },
+  {
+    "id":"w207",
+    "block":1,
+    "english":"wide",
+    "chinese":"寬的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very wide idea.",
+    "exampleChinese":"這是一個非常寬的的想法。"
+  },
+  {
+    "id":"w208",
+    "block":1,
+    "english":"young",
+    "chinese":"年輕的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very young idea.",
+    "exampleChinese":"這是一個非常年輕的的想法。"
+  },
+  {
+    "id":"w209",
+    "block":1,
+    "english":"amazing",
+    "chinese":"驚人的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very amazing idea.",
+    "exampleChinese":"這是一個非常驚人的的想法。"
+  },
+  {
+    "id":"w210",
+    "block":1,
+    "english":"awful",
+    "chinese":"可怕的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very awful idea.",
+    "exampleChinese":"這是一個非常可怕的的想法。"
+  },
+  {
+    "id":"w211",
+    "block":1,
+    "english":"boring",
+    "chinese":"無聊的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very boring idea.",
+    "exampleChinese":"這是一個非常無聊的的想法。"
+  },
+  {
+    "id":"w212",
+    "block":1,
+    "english":"careless",
+    "chinese":"粗心的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very careless idea.",
+    "exampleChinese":"這是一個非常粗心的的想法。"
+  },
+  {
+    "id":"w213",
+    "block":1,
+    "english":"crowded",
+    "chinese":"擁擠的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very crowded idea.",
+    "exampleChinese":"這是一個非常擁擠的的想法。"
+  },
+  {
+    "id":"w214",
+    "block":1,
+    "english":"curious",
+    "chinese":"好奇的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very curious idea.",
+    "exampleChinese":"這是一個非常好奇的的想法。"
+  },
+  {
+    "id":"w215",
+    "block":1,
+    "english":"distant",
+    "chinese":"遙遠的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very distant idea.",
+    "exampleChinese":"這是一個非常遙遠的的想法。"
+  },
+  {
+    "id":"w216",
+    "block":1,
+    "english":"electric",
+    "chinese":"電動的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very electric idea.",
+    "exampleChinese":"這是一個非常電動的的想法。"
+  },
+  {
+    "id":"w217",
+    "block":1,
+    "english":"equal",
+    "chinese":"相等的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very equal idea.",
+    "exampleChinese":"這是一個非常相等的的想法。"
+  },
+  {
+    "id":"w218",
+    "block":1,
+    "english":"expensive",
+    "chinese":"昂貴的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very expensive idea.",
+    "exampleChinese":"這是一個非常昂貴的的想法。"
+  },
+  {
+    "id":"w219",
+    "block":1,
+    "english":"fancy",
+    "chinese":"華麗的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very fancy idea.",
+    "exampleChinese":"這是一個非常華麗的的想法。"
+  },
+  {
+    "id":"w220",
+    "block":1,
+    "english":"final",
+    "chinese":"最後的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very final idea.",
+    "exampleChinese":"這是一個非常最後的的想法。"
+  },
+  {
+    "id":"w221",
+    "block":1,
+    "english":"formal",
+    "chinese":"正式的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very formal idea.",
+    "exampleChinese":"這是一個非常正式的的想法。"
+  },
+  {
+    "id":"w222",
+    "block":1,
+    "english":"free",
+    "chinese":"自由的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very free idea.",
+    "exampleChinese":"這是一個非常自由的的想法。"
+  },
+  {
+    "id":"w223",
+    "block":1,
+    "english":"global",
+    "chinese":"全球的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very global idea.",
+    "exampleChinese":"這是一個非常全球的的想法。"
+  },
+  {
+    "id":"w224",
+    "block":1,
+    "english":"helpful",
+    "chinese":"有幫助的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very helpful idea.",
+    "exampleChinese":"這是一個非常有幫助的的想法。"
+  },
+  {
+    "id":"w225",
+    "block":1,
+    "english":"huge",
+    "chinese":"巨大的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very huge idea.",
+    "exampleChinese":"這是一個非常巨大的的想法。"
+  },
+  {
+    "id":"w226",
+    "block":1,
+    "english":"ideal",
+    "chinese":"理想的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very ideal idea.",
+    "exampleChinese":"這是一個非常理想的的想法。"
+  },
+  {
+    "id":"w227",
+    "block":1,
+    "english":"inner",
+    "chinese":"內部的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very inner idea.",
+    "exampleChinese":"這是一個非常內部的的想法。"
+  },
+  {
+    "id":"w228",
+    "block":1,
+    "english":"junior",
+    "chinese":"初階的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very junior idea.",
+    "exampleChinese":"這是一個非常初階的的想法。"
+  },
+  {
+    "id":"w229",
+    "block":1,
+    "english":"legal",
+    "chinese":"合法的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very legal idea.",
+    "exampleChinese":"這是一個非常合法的的想法。"
+  },
+  {
+    "id":"w230",
+    "block":1,
+    "english":"lonely",
+    "chinese":"孤單的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very lonely idea.",
+    "exampleChinese":"這是一個非常孤單的的想法。"
+  },
+  {
+    "id":"w231",
+    "block":1,
+    "english":"magical",
+    "chinese":"神奇的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very magical idea.",
+    "exampleChinese":"這是一個非常神奇的的想法。"
+  },
+  {
+    "id":"w232",
+    "block":1,
+    "english":"nervous",
+    "chinese":"緊張的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very nervous idea.",
+    "exampleChinese":"這是一個非常緊張的的想法。"
+  },
+  {
+    "id":"w233",
+    "block":1,
+    "english":"official",
+    "chinese":"官方的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very official idea.",
+    "exampleChinese":"這是一個非常官方的的想法。"
+  },
+  {
+    "id":"w234",
+    "block":1,
+    "english":"ability",
+    "chinese":"能力",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This ability is important for students.",
+    "exampleChinese":"這個能力對學生很重要。"
+  },
+  {
+    "id":"w235",
+    "block":1,
+    "english":"advice",
+    "chinese":"建議",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This advice is important for students.",
+    "exampleChinese":"這個建議對學生很重要。"
+  },
+  {
+    "id":"w236",
+    "block":1,
+    "english":"airport",
+    "chinese":"機場",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This airport is important for students.",
+    "exampleChinese":"這個機場對學生很重要。"
+  },
+  {
+    "id":"w237",
+    "block":1,
+    "english":"article",
+    "chinese":"文章",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This article is important for students.",
+    "exampleChinese":"這個文章對學生很重要。"
+  },
+  {
+    "id":"w238",
+    "block":1,
+    "english":"balance",
+    "chinese":"平衡",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This balance is important for students.",
+    "exampleChinese":"這個平衡對學生很重要。"
+  },
+  {
+    "id":"w239",
+    "block":1,
+    "english":"culture",
+    "chinese":"文化",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This culture is important for students.",
+    "exampleChinese":"這個文化對學生很重要。"
+  },
+  {
+    "id":"w240",
+    "block":1,
+    "english":"decision",
+    "chinese":"決定",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This decision is important for students.",
+    "exampleChinese":"這個決定對學生很重要。"
+  },
+  {
+    "id":"w241",
+    "block":1,
+    "english":"energy",
+    "chinese":"能量",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This energy is important for students.",
+    "exampleChinese":"這個能量對學生很重要。"
+  },
+  {
+    "id":"w242",
+    "block":1,
+    "english":"failure",
+    "chinese":"失敗",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This failure is important for students.",
+    "exampleChinese":"這個失敗對學生很重要。"
+  },
+  {
+    "id":"w243",
+    "block":1,
+    "english":"journey",
+    "chinese":"旅程",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This journey is important for students.",
+    "exampleChinese":"這個旅程對學生很重要。"
+  },
+  {
+    "id":"w244",
+    "block":1,
+    "english":"attention",
+    "chinese":"注意力",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This attention is important for students.",
+    "exampleChinese":"這個注意力對學生很重要。"
+  },
+  {
+    "id":"w245",
+    "block":1,
+    "english":"business",
+    "chinese":"商業",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This business is important for students.",
+    "exampleChinese":"這個商業對學生很重要。"
+  },
+  {
+    "id":"w246",
+    "block":1,
+    "english":"community",
+    "chinese":"社區",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This community is important for students.",
+    "exampleChinese":"這個社區對學生很重要。"
+  },
+  {
+    "id":"w247",
+    "block":1,
+    "english":"direction",
+    "chinese":"方向",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This direction is important for students.",
+    "exampleChinese":"這個方向對學生很重要。"
+  },
+  {
+    "id":"w248",
+    "block":1,
+    "english":"experience",
+    "chinese":"經驗",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This experience is important for students.",
+    "exampleChinese":"這個經驗對學生很重要。"
+  },
+  {
+    "id":"w249",
+    "block":1,
+    "english":"habit",
+    "chinese":"習慣",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This habit is important for students.",
+    "exampleChinese":"這個習慣對學生很重要。"
+  },
+  {
+    "id":"w250",
+    "block":1,
+    "english":"knowledge",
+    "chinese":"知識",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This knowledge is important for students.",
+    "exampleChinese":"這個知識對學生很重要。"
+  },
+  {
+    "id":"w251",
+    "block":1,
+    "english":"language",
+    "chinese":"語言",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This language is important for students.",
+    "exampleChinese":"這個語言對學生很重要。"
+  },
+  {
+    "id":"w252",
+    "block":1,
+    "english":"memory",
+    "chinese":"記憶",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This memory is important for students.",
+    "exampleChinese":"這個記憶對學生很重要。"
+  },
+  {
+    "id":"w253",
+    "block":1,
+    "english":"purpose",
+    "chinese":"目的",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This purpose is important for students.",
+    "exampleChinese":"這個目的對學生很重要。"
+  },
+  {
+    "id":"w254",
+    "block":1,
+    "english":"answer",
+    "chinese":"答案",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This answer is important for students.",
+    "exampleChinese":"這個答案對學生很重要。"
+  },
+  {
+    "id":"w255",
+    "block":1,
+    "english":"area",
+    "chinese":"區域",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This area is important for students.",
+    "exampleChinese":"這個區域對學生很重要。"
+  },
+  {
+    "id":"w256",
+    "block":1,
+    "english":"book",
+    "chinese":"書",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This book is important for students.",
+    "exampleChinese":"這個書對學生很重要。"
+  },
+  {
+    "id":"w257",
+    "block":1,
+    "english":"chance",
+    "chinese":"機會",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This chance is important for students.",
+    "exampleChinese":"這個機會對學生很重要。"
+  },
+  {
+    "id":"w258",
+    "block":1,
+    "english":"choice",
+    "chinese":"選擇",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This choice is important for students.",
+    "exampleChinese":"這個選擇對學生很重要。"
+  },
+  {
+    "id":"w259",
+    "block":1,
+    "english":"class",
+    "chinese":"班級",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This class is important for students.",
+    "exampleChinese":"這個班級對學生很重要。"
+  },
+  {
+    "id":"w260",
+    "block":1,
+    "english":"company",
+    "chinese":"公司",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This company is important for students.",
+    "exampleChinese":"這個公司對學生很重要。"
+  },
+  {
+    "id":"w261",
+    "block":1,
+    "english":"country",
+    "chinese":"國家",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This country is important for students.",
+    "exampleChinese":"這個國家對學生很重要。"
+  },
+  {
+    "id":"w262",
+    "block":1,
+    "english":"course",
+    "chinese":"課程",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This course is important for students.",
+    "exampleChinese":"這個課程對學生很重要。"
+  },
+  {
+    "id":"w263",
+    "block":1,
+    "english":"customer",
+    "chinese":"顧客",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This customer is important for students.",
+    "exampleChinese":"這個顧客對學生很重要。"
+  },
+  {
+    "id":"w264",
+    "block":1,
+    "english":"day",
+    "chinese":"日子",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This day is important for students.",
+    "exampleChinese":"這個日子對學生很重要。"
+  },
+  {
+    "id":"w265",
+    "block":1,
+    "english":"detail",
+    "chinese":"細節",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This detail is important for students.",
+    "exampleChinese":"這個細節對學生很重要。"
+  },
+  {
+    "id":"w266",
+    "block":1,
+    "english":"dream",
+    "chinese":"夢想",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This dream is important for students.",
+    "exampleChinese":"這個夢想對學生很重要。"
+  },
+  {
+    "id":"w267",
+    "block":1,
+    "english":"education",
+    "chinese":"教育",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This education is important for students.",
+    "exampleChinese":"這個教育對學生很重要。"
+  },
+  {
+    "id":"w268",
+    "block":1,
+    "english":"event",
+    "chinese":"事件",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This event is important for students.",
+    "exampleChinese":"這個事件對學生很重要。"
+  },
+  {
+    "id":"w269",
+    "block":1,
+    "english":"example",
+    "chinese":"例子",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This example is important for students.",
+    "exampleChinese":"這個例子對學生很重要。"
+  },
+  {
+    "id":"w270",
+    "block":1,
+    "english":"family",
+    "chinese":"家庭",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This family is important for students.",
+    "exampleChinese":"這個家庭對學生很重要。"
+  },
+  {
+    "id":"w271",
+    "block":1,
+    "english":"friend",
+    "chinese":"朋友",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This friend is important for students.",
+    "exampleChinese":"這個朋友對學生很重要。"
+  },
+  {
+    "id":"w272",
+    "block":1,
+    "english":"future",
+    "chinese":"未來",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This future is important for students.",
+    "exampleChinese":"這個未來對學生很重要。"
+  },
+  {
+    "id":"w273",
+    "block":1,
+    "english":"goal",
+    "chinese":"目標",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This goal is important for students.",
+    "exampleChinese":"這個目標對學生很重要。"
+  },
+  {
+    "id":"w274",
+    "block":1,
+    "english":"group",
+    "chinese":"團體",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This group is important for students.",
+    "exampleChinese":"這個團體對學生很重要。"
+  },
+  {
+    "id":"w275",
+    "block":1,
+    "english":"health",
+    "chinese":"健康",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This health is important for students.",
+    "exampleChinese":"這個健康對學生很重要。"
+  },
+  {
+    "id":"w276",
+    "block":1,
+    "english":"history",
+    "chinese":"歷史",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This history is important for students.",
+    "exampleChinese":"這個歷史對學生很重要。"
+  },
+  {
+    "id":"w277",
+    "block":1,
+    "english":"idea",
+    "chinese":"想法",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This idea is important for students.",
+    "exampleChinese":"這個想法對學生很重要。"
+  },
+  {
+    "id":"w278",
+    "block":1,
+    "english":"image",
+    "chinese":"圖片",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This image is important for students.",
+    "exampleChinese":"這個圖片對學生很重要。"
+  },
+  {
+    "id":"w279",
+    "block":1,
+    "english":"information",
+    "chinese":"資訊",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This information is important for students.",
+    "exampleChinese":"這個資訊對學生很重要。"
+  },
+  {
+    "id":"w280",
+    "block":1,
+    "english":"interest",
+    "chinese":"興趣",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This interest is important for students.",
+    "exampleChinese":"這個興趣對學生很重要。"
+  },
+  {
+    "id":"w281",
+    "block":1,
+    "english":"job",
+    "chinese":"工作",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This job is important for students.",
+    "exampleChinese":"這個工作對學生很重要。"
+  },
+  {
+    "id":"w282",
+    "block":1,
+    "english":"lesson",
+    "chinese":"課程",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This lesson is important for students.",
+    "exampleChinese":"這個課程對學生很重要。"
+  },
+  {
+    "id":"w283",
+    "block":1,
+    "english":"level",
+    "chinese":"程度",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This level is important for students.",
+    "exampleChinese":"這個程度對學生很重要。"
+  },
+  {
+    "id":"w284",
+    "block":1,
+    "english":"life",
+    "chinese":"生活",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This life is important for students.",
+    "exampleChinese":"這個生活對學生很重要。"
+  },
+  {
+    "id":"w285",
+    "block":1,
+    "english":"market",
+    "chinese":"市場",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This market is important for students.",
+    "exampleChinese":"這個市場對學生很重要。"
+  },
+  {
+    "id":"w286",
+    "block":1,
+    "english":"meeting",
+    "chinese":"會議",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This meeting is important for students.",
+    "exampleChinese":"這個會議對學生很重要。"
+  },
+  {
+    "id":"w287",
+    "block":1,
+    "english":"message",
+    "chinese":"訊息",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This message is important for students.",
+    "exampleChinese":"這個訊息對學生很重要。"
+  },
+  {
+    "id":"w288",
+    "block":1,
+    "english":"method",
+    "chinese":"方法",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This method is important for students.",
+    "exampleChinese":"這個方法對學生很重要。"
+  },
+  {
+    "id":"w289",
+    "block":1,
+    "english":"moment",
+    "chinese":"時刻",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This moment is important for students.",
+    "exampleChinese":"這個時刻對學生很重要。"
+  },
+  {
+    "id":"w290",
+    "block":1,
+    "english":"money",
+    "chinese":"金錢",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This money is important for students.",
+    "exampleChinese":"這個金錢對學生很重要。"
+  },
+  {
+    "id":"w291",
+    "block":1,
+    "english":"morning",
+    "chinese":"早晨",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This morning is important for students.",
+    "exampleChinese":"這個早晨對學生很重要。"
+  },
+  {
+    "id":"w292",
+    "block":1,
+    "english":"movie",
+    "chinese":"電影",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This movie is important for students.",
+    "exampleChinese":"這個電影對學生很重要。"
+  },
+  {
+    "id":"w293",
+    "block":1,
+    "english":"music",
+    "chinese":"音樂",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This music is important for students.",
+    "exampleChinese":"這個音樂對學生很重要。"
+  },
+  {
+    "id":"w294",
+    "block":1,
+    "english":"name",
+    "chinese":"名字",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This name is important for students.",
+    "exampleChinese":"這個名字對學生很重要。"
+  },
+  {
+    "id":"w295",
+    "block":1,
+    "english":"news",
+    "chinese":"新聞",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This news is important for students.",
+    "exampleChinese":"這個新聞對學生很重要。"
+  },
+  {
+    "id":"w296",
+    "block":1,
+    "english":"office",
+    "chinese":"辦公室",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This office is important for students.",
+    "exampleChinese":"這個辦公室對學生很重要。"
+  },
+  {
+    "id":"w297",
+    "block":1,
+    "english":"paper",
+    "chinese":"紙",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This paper is important for students.",
+    "exampleChinese":"這個紙對學生很重要。"
+  },
+  {
+    "id":"w298",
+    "block":1,
+    "english":"parent",
+    "chinese":"家長",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This parent is important for students.",
+    "exampleChinese":"這個家長對學生很重要。"
+  },
+  {
+    "id":"w299",
+    "block":1,
+    "english":"party",
+    "chinese":"派對",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This party is important for students.",
+    "exampleChinese":"這個派對對學生很重要。"
+  },
+  {
+    "id":"w300",
+    "block":1,
+    "english":"person",
+    "chinese":"人",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This person is important for students.",
+    "exampleChinese":"這個人對學生很重要。"
+  },
+  {
+    "id":"w301",
+    "block":1,
+    "english":"plan",
+    "chinese":"計畫",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This plan is important for students.",
+    "exampleChinese":"這個計畫對學生很重要。"
+  },
+  {
+    "id":"w302",
+    "block":1,
+    "english":"problem",
+    "chinese":"問題",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This problem is important for students.",
+    "exampleChinese":"這個問題對學生很重要。"
+  },
+  {
+    "id":"w303",
+    "block":1,
+    "english":"product",
+    "chinese":"產品",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This product is important for students.",
+    "exampleChinese":"這個產品對學生很重要。"
+  },
+  {
+    "id":"w304",
+    "block":1,
+    "english":"project",
+    "chinese":"專案",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This project is important for students.",
+    "exampleChinese":"這個專案對學生很重要。"
+  },
+  {
+    "id":"w305",
+    "block":1,
+    "english":"question",
+    "chinese":"問題",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This question is important for students.",
+    "exampleChinese":"這個問題對學生很重要。"
+  },
+  {
+    "id":"w306",
+    "block":1,
+    "english":"reason",
+    "chinese":"原因",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This reason is important for students.",
+    "exampleChinese":"這個原因對學生很重要。"
+  },
+  {
+    "id":"w307",
+    "block":1,
+    "english":"record",
+    "chinese":"紀錄",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This record is important for students.",
+    "exampleChinese":"這個紀錄對學生很重要。"
+  },
+  {
+    "id":"w308",
+    "block":1,
+    "english":"result",
+    "chinese":"結果",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This result is important for students.",
+    "exampleChinese":"這個結果對學生很重要。"
+  },
+  {
+    "id":"w309",
+    "block":1,
+    "english":"room",
+    "chinese":"房間",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This room is important for students.",
+    "exampleChinese":"這個房間對學生很重要。"
+  },
+  {
+    "id":"w310",
+    "block":1,
+    "english":"rule",
+    "chinese":"規則",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This rule is important for students.",
+    "exampleChinese":"這個規則對學生很重要。"
+  },
+  {
+    "id":"w311",
+    "block":1,
+    "english":"school",
+    "chinese":"學校",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This school is important for students.",
+    "exampleChinese":"這個學校對學生很重要。"
+  },
+  {
+    "id":"w312",
+    "block":1,
+    "english":"service",
+    "chinese":"服務",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This service is important for students.",
+    "exampleChinese":"這個服務對學生很重要。"
+  },
+  {
+    "id":"w313",
+    "block":1,
+    "english":"skill",
+    "chinese":"技能",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This skill is important for students.",
+    "exampleChinese":"這個技能對學生很重要。"
+  },
+  {
+    "id":"w314",
+    "block":1,
+    "english":"story",
+    "chinese":"故事",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This story is important for students.",
+    "exampleChinese":"這個故事對學生很重要。"
+  },
+  {
+    "id":"w315",
+    "block":1,
+    "english":"student",
+    "chinese":"學生",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This student is important for students.",
+    "exampleChinese":"這個學生對學生很重要。"
+  },
+  {
+    "id":"w316",
+    "block":1,
+    "english":"success",
+    "chinese":"成功",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This success is important for students.",
+    "exampleChinese":"這個成功對學生很重要。"
+  },
+  {
+    "id":"w317",
+    "block":1,
+    "english":"teacher",
+    "chinese":"老師",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This teacher is important for students.",
+    "exampleChinese":"這個老師對學生很重要。"
+  },
+  {
+    "id":"w318",
+    "block":1,
+    "english":"team",
+    "chinese":"團隊",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This team is important for students.",
+    "exampleChinese":"這個團隊對學生很重要。"
+  },
+  {
+    "id":"w319",
+    "block":1,
+    "english":"technology",
+    "chinese":"科技",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This technology is important for students.",
+    "exampleChinese":"這個科技對學生很重要。"
+  },
+  {
+    "id":"w320",
+    "block":1,
+    "english":"test",
+    "chinese":"測驗",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This test is important for students.",
+    "exampleChinese":"這個測驗對學生很重要。"
+  },
+  {
+    "id":"w321",
+    "block":1,
+    "english":"time",
+    "chinese":"時間",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This time is important for students.",
+    "exampleChinese":"這個時間對學生很重要。"
+  },
+  {
+    "id":"w322",
+    "block":1,
+    "english":"topic",
+    "chinese":"主題",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This topic is important for students.",
+    "exampleChinese":"這個主題對學生很重要。"
+  },
+  {
+    "id":"w323",
+    "block":1,
+    "english":"travel",
+    "chinese":"旅行",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This travel is important for students.",
+    "exampleChinese":"這個旅行對學生很重要。"
+  },
+  {
+    "id":"w324",
+    "block":1,
+    "english":"truth",
+    "chinese":"真相",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This truth is important for students.",
+    "exampleChinese":"這個真相對學生很重要。"
+  },
+  {
+    "id":"w325",
+    "block":1,
+    "english":"user",
+    "chinese":"使用者",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This user is important for students.",
+    "exampleChinese":"這個使用者對學生很重要。"
+  },
+  {
+    "id":"w326",
+    "block":1,
+    "english":"value",
+    "chinese":"價值",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This value is important for students.",
+    "exampleChinese":"這個價值對學生很重要。"
+  },
+  {
+    "id":"w327",
+    "block":1,
+    "english":"video",
+    "chinese":"影片",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This video is important for students.",
+    "exampleChinese":"這個影片對學生很重要。"
+  },
+  {
+    "id":"w328",
+    "block":1,
+    "english":"voice",
+    "chinese":"聲音",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This voice is important for students.",
+    "exampleChinese":"這個聲音對學生很重要。"
+  },
+  {
+    "id":"w329",
+    "block":1,
+    "english":"weather",
+    "chinese":"天氣",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This weather is important for students.",
+    "exampleChinese":"這個天氣對學生很重要。"
+  },
+  {
+    "id":"w330",
+    "block":1,
+    "english":"website",
+    "chinese":"網站",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This website is important for students.",
+    "exampleChinese":"這個網站對學生很重要。"
+  },
+  {
+    "id":"w331",
+    "block":1,
+    "english":"week",
+    "chinese":"星期",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This week is important for students.",
+    "exampleChinese":"這個星期對學生很重要。"
+  },
+  {
+    "id":"w332",
+    "block":1,
+    "english":"window",
+    "chinese":"窗戶",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This window is important for students.",
+    "exampleChinese":"這個窗戶對學生很重要。"
+  },
+  {
+    "id":"w333",
+    "block":1,
+    "english":"word",
+    "chinese":"單字",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This word is important for students.",
+    "exampleChinese":"這個單字對學生很重要。"
+  },
+  {
+    "id":"w334",
+    "block":1,
+    "english":"world",
+    "chinese":"世界",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This world is important for students.",
+    "exampleChinese":"這個世界對學生很重要。"
+  },
+  {
+    "id":"w335",
+    "block":1,
+    "english":"worker",
+    "chinese":"工作者",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This worker is important for students.",
+    "exampleChinese":"這個工作者對學生很重要。"
+  },
+  {
+    "id":"w336",
+    "block":1,
+    "english":"writer",
+    "chinese":"作者",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This writer is important for students.",
+    "exampleChinese":"這個作者對學生很重要。"
+  },
+  {
+    "id":"w337",
+    "block":1,
+    "english":"station",
+    "chinese":"車站",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This station is important for students.",
+    "exampleChinese":"這個車站對學生很重要。"
+  },
+  {
+    "id":"w338",
+    "block":1,
+    "english":"garden",
+    "chinese":"花園",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This garden is important for students.",
+    "exampleChinese":"這個花園對學生很重要。"
+  },
+  {
+    "id":"w339",
+    "block":1,
+    "english":"village",
+    "chinese":"村莊",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This village is important for students.",
+    "exampleChinese":"這個村莊對學生很重要。"
+  },
+  {
+    "id":"w340",
+    "block":1,
+    "english":"bridge",
+    "chinese":"橋",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This bridge is important for students.",
+    "exampleChinese":"這個橋對學生很重要。"
+  },
+  {
+    "id":"w341",
+    "block":1,
+    "english":"river",
+    "chinese":"河流",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This river is important for students.",
+    "exampleChinese":"這個河流對學生很重要。"
+  },
+  {
+    "id":"w342",
+    "block":1,
+    "english":"forest",
+    "chinese":"森林",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This forest is important for students.",
+    "exampleChinese":"這個森林對學生很重要。"
+  },
+  {
+    "id":"w343",
+    "block":1,
+    "english":"mountain",
+    "chinese":"山",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This mountain is important for students.",
+    "exampleChinese":"這個山對學生很重要。"
+  },
+  {
+    "id":"w344",
+    "block":1,
+    "english":"island",
+    "chinese":"島嶼",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This island is important for students.",
+    "exampleChinese":"這個島嶼對學生很重要。"
+  },
+  {
+    "id":"w345",
+    "block":1,
+    "english":"ticket",
+    "chinese":"票",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This ticket is important for students.",
+    "exampleChinese":"這個票對學生很重要。"
+  },
+  {
+    "id":"w346",
+    "block":1,
+    "english":"library",
+    "chinese":"圖書館",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This library is important for students.",
+    "exampleChinese":"這個圖書館對學生很重要。"
+  },
+  {
+    "id":"w347",
+    "block":1,
+    "english":"hospital",
+    "chinese":"醫院",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This hospital is important for students.",
+    "exampleChinese":"這個醫院對學生很重要。"
+  },
+  {
+    "id":"w348",
+    "block":1,
+    "english":"restaurant",
+    "chinese":"餐廳",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This restaurant is important for students.",
+    "exampleChinese":"這個餐廳對學生很重要。"
+  },
+  {
+    "id":"w349",
+    "block":1,
+    "english":"computer",
+    "chinese":"電腦",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This computer is important for students.",
+    "exampleChinese":"這個電腦對學生很重要。"
+  },
+  {
+    "id":"w350",
+    "block":1,
+    "english":"phone",
+    "chinese":"手機",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This phone is important for students.",
+    "exampleChinese":"這個手機對學生很重要。"
+  },
+  {
+    "id":"w351",
+    "block":1,
+    "english":"camera",
+    "chinese":"相機",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This camera is important for students.",
+    "exampleChinese":"這個相機對學生很重要。"
+  },
+  {
+    "id":"w352",
+    "block":1,
+    "english":"schedule",
+    "chinese":"行程",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This schedule is important for students.",
+    "exampleChinese":"這個行程對學生很重要。"
+  },
+  {
+    "id":"w353",
+    "block":1,
+    "english":"progress",
+    "chinese":"進度",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This progress is important for students.",
+    "exampleChinese":"這個進度對學生很重要。"
+  },
+  {
+    "id":"w354",
+    "block":1,
+    "english":"quickly",
+    "chinese":"快速地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke quickly in class.",
+    "exampleChinese":"她在課堂上快速地地說話。"
+  },
+  {
+    "id":"w355",
+    "block":1,
+    "english":"slowly",
+    "chinese":"慢慢地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke slowly in class.",
+    "exampleChinese":"她在課堂上慢慢地地說話。"
+  },
+  {
+    "id":"w356",
+    "block":1,
+    "english":"clearly",
+    "chinese":"清楚地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke clearly in class.",
+    "exampleChinese":"她在課堂上清楚地地說話。"
+  },
+  {
+    "id":"w357",
+    "block":1,
+    "english":"quietly",
+    "chinese":"安靜地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke quietly in class.",
+    "exampleChinese":"她在課堂上安靜地地說話。"
+  },
+  {
+    "id":"w358",
+    "block":1,
+    "english":"suddenly",
+    "chinese":"突然地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke suddenly in class.",
+    "exampleChinese":"她在課堂上突然地地說話。"
+  },
+  {
+    "id":"w359",
+    "block":1,
+    "english":"usually",
+    "chinese":"通常",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke usually in class.",
+    "exampleChinese":"她在課堂上通常地說話。"
+  },
+  {
+    "id":"w360",
+    "block":1,
+    "english":"rarely",
+    "chinese":"很少地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke rarely in class.",
+    "exampleChinese":"她在課堂上很少地地說話。"
+  },
+  {
+    "id":"w361",
+    "block":1,
+    "english":"probably",
+    "chinese":"可能地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke probably in class.",
+    "exampleChinese":"她在課堂上可能地地說話。"
+  },
+  {
+    "id":"w362",
+    "block":1,
+    "english":"especially",
+    "chinese":"特別地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke especially in class.",
+    "exampleChinese":"她在課堂上特別地地說話。"
+  },
+  {
+    "id":"w363",
+    "block":1,
+    "english":"nearly",
+    "chinese":"幾乎",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke nearly in class.",
+    "exampleChinese":"她在課堂上幾乎地說話。"
+  },
+  {
+    "id":"w364",
+    "block":1,
+    "english":"actually",
+    "chinese":"其實",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke actually in class.",
+    "exampleChinese":"她在課堂上其實地說話。"
+  },
+  {
+    "id":"w365",
+    "block":1,
+    "english":"almost",
+    "chinese":"幾乎",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke almost in class.",
+    "exampleChinese":"她在課堂上幾乎地說話。"
+  },
+  {
+    "id":"w366",
+    "block":1,
+    "english":"always",
+    "chinese":"總是",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke always in class.",
+    "exampleChinese":"她在課堂上總是地說話。"
+  },
+  {
+    "id":"w367",
+    "block":1,
+    "english":"carefully",
+    "chinese":"小心地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke carefully in class.",
+    "exampleChinese":"她在課堂上小心地地說話。"
+  },
+  {
+    "id":"w368",
+    "block":1,
+    "english":"finally",
+    "chinese":"最後",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke finally in class.",
+    "exampleChinese":"她在課堂上最後地說話。"
+  },
+  {
+    "id":"w369",
+    "block":1,
+    "english":"immediately",
+    "chinese":"立刻",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke immediately in class.",
+    "exampleChinese":"她在課堂上立刻地說話。"
+  },
+  {
+    "id":"w370",
+    "block":1,
+    "english":"mostly",
+    "chinese":"大多數地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke mostly in class.",
+    "exampleChinese":"她在課堂上大多數地地說話。"
+  },
+  {
+    "id":"w371",
+    "block":1,
+    "english":"recently",
+    "chinese":"最近",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke recently in class.",
+    "exampleChinese":"她在課堂上最近地說話。"
+  },
+  {
+    "id":"w372",
+    "block":1,
+    "english":"simply",
+    "chinese":"簡單地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke simply in class.",
+    "exampleChinese":"她在課堂上簡單地地說話。"
+  },
+  {
+    "id":"w373",
+    "block":1,
+    "english":"together",
+    "chinese":"一起",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke together in class.",
+    "exampleChinese":"她在課堂上一起地說話。"
+  },
+  {
+    "id":"w374",
+    "block":1,
+    "english":"again",
+    "chinese":"再次",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke again in class.",
+    "exampleChinese":"她在課堂上再次地說話。"
+  },
+  {
+    "id":"w375",
+    "block":1,
+    "english":"alone",
+    "chinese":"獨自地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke alone in class.",
+    "exampleChinese":"她在課堂上獨自地地說話。"
+  },
+  {
+    "id":"w376",
+    "block":1,
+    "english":"already",
+    "chinese":"已經",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke already in class.",
+    "exampleChinese":"她在課堂上已經地說話。"
+  },
+  {
+    "id":"w377",
+    "block":1,
+    "english":"anywhere",
+    "chinese":"任何地方",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke anywhere in class.",
+    "exampleChinese":"她在課堂上任何地方地說話。"
+  },
+  {
+    "id":"w378",
+    "block":1,
+    "english":"badly",
+    "chinese":"糟糕地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke badly in class.",
+    "exampleChinese":"她在課堂上糟糕地地說話。"
+  },
+  {
+    "id":"w379",
+    "block":1,
+    "english":"brightly",
+    "chinese":"明亮地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke brightly in class.",
+    "exampleChinese":"她在課堂上明亮地地說話。"
+  },
+  {
+    "id":"w380",
+    "block":1,
+    "english":"certainly",
+    "chinese":"當然",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke certainly in class.",
+    "exampleChinese":"她在課堂上當然地說話。"
+  },
+  {
+    "id":"w381",
+    "block":1,
+    "english":"cheaply",
+    "chinese":"便宜地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke cheaply in class.",
+    "exampleChinese":"她在課堂上便宜地地說話。"
+  },
+  {
+    "id":"w382",
+    "block":1,
+    "english":"closely",
+    "chinese":"緊密地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke closely in class.",
+    "exampleChinese":"她在課堂上緊密地地說話。"
+  },
+  {
+    "id":"w383",
+    "block":1,
+    "english":"daily",
+    "chinese":"每天",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke daily in class.",
+    "exampleChinese":"她在課堂上每天地說話。"
+  },
+  {
+    "id":"w384",
+    "block":1,
+    "english":"deeply",
+    "chinese":"深深地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke deeply in class.",
+    "exampleChinese":"她在課堂上深深地地說話。"
+  },
+  {
+    "id":"w385",
+    "block":1,
+    "english":"easily",
+    "chinese":"容易地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke easily in class.",
+    "exampleChinese":"她在課堂上容易地地說話。"
+  },
+  {
+    "id":"w386",
+    "block":1,
+    "english":"elsewhere",
+    "chinese":"在別處",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke elsewhere in class.",
+    "exampleChinese":"她在課堂上在別處地說話。"
+  },
+  {
+    "id":"w387",
+    "block":1,
+    "english":"equally",
+    "chinese":"同樣地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke equally in class.",
+    "exampleChinese":"她在課堂上同樣地地說話。"
+  },
+  {
+    "id":"w388",
+    "block":1,
+    "english":"exactly",
+    "chinese":"正確地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke exactly in class.",
+    "exampleChinese":"她在課堂上正確地地說話。"
+  },
+  {
+    "id":"w389",
+    "block":1,
+    "english":"fast",
+    "chinese":"快速地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke fast in class.",
+    "exampleChinese":"她在課堂上快速地地說話。"
+  },
+  {
+    "id":"w390",
+    "block":1,
+    "english":"freely",
+    "chinese":"自由地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke freely in class.",
+    "exampleChinese":"她在課堂上自由地地說話。"
+  },
+  {
+    "id":"w391",
+    "block":1,
+    "english":"gently",
+    "chinese":"溫柔地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke gently in class.",
+    "exampleChinese":"她在課堂上溫柔地地說話。"
+  },
+  {
+    "id":"w392",
+    "block":1,
+    "english":"gladly",
+    "chinese":"樂意地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke gladly in class.",
+    "exampleChinese":"她在課堂上樂意地地說話。"
+  },
+  {
+    "id":"w393",
+    "block":1,
+    "english":"greatly",
+    "chinese":"大大地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke greatly in class.",
+    "exampleChinese":"她在課堂上大大地地說話。"
+  },
+  {
+    "id":"w394",
+    "block":1,
+    "english":"happily",
+    "chinese":"快樂地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke happily in class.",
+    "exampleChinese":"她在課堂上快樂地地說話。"
+  },
+  {
+    "id":"w395",
+    "block":1,
+    "english":"hard",
+    "chinese":"努力地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke hard in class.",
+    "exampleChinese":"她在課堂上努力地地說話。"
+  },
+  {
+    "id":"w396",
+    "block":1,
+    "english":"hardly",
+    "chinese":"幾乎不",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke hardly in class.",
+    "exampleChinese":"她在課堂上幾乎不地說話。"
+  },
+  {
+    "id":"w397",
+    "block":1,
+    "english":"honestly",
+    "chinese":"誠實地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke honestly in class.",
+    "exampleChinese":"她在課堂上誠實地地說話。"
+  },
+  {
+    "id":"w398",
+    "block":1,
+    "english":"inside",
+    "chinese":"在裡面",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke inside in class.",
+    "exampleChinese":"她在課堂上在裡面地說話。"
+  },
+  {
+    "id":"w399",
+    "block":1,
+    "english":"kindly",
+    "chinese":"親切地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke kindly in class.",
+    "exampleChinese":"她在課堂上親切地地說話。"
+  },
+  {
+    "id":"w400",
+    "block":1,
+    "english":"late",
+    "chinese":"晚地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke late in class.",
+    "exampleChinese":"她在課堂上晚地地說話。"
+  },
+  {
+    "id":"w401",
+    "block":1,
+    "english":"lately",
+    "chinese":"最近",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke lately in class.",
+    "exampleChinese":"她在課堂上最近地說話。"
+  },
+  {
+    "id":"w402",
+    "block":1,
+    "english":"loudly",
+    "chinese":"大聲地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke loudly in class.",
+    "exampleChinese":"她在課堂上大聲地地說話。"
+  },
+  {
+    "id":"w403",
+    "block":1,
+    "english":"maybe",
+    "chinese":"也許",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke maybe in class.",
+    "exampleChinese":"她在課堂上也許地說話。"
+  },
+  {
+    "id":"w404",
+    "block":1,
+    "english":"monthly",
+    "chinese":"每月",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke monthly in class.",
+    "exampleChinese":"她在課堂上每月地說話。"
+  },
+  {
+    "id":"w405",
+    "block":1,
+    "english":"naturally",
+    "chinese":"自然地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke naturally in class.",
+    "exampleChinese":"她在課堂上自然地地說話。"
+  },
+  {
+    "id":"w406",
+    "block":1,
+    "english":"normally",
+    "chinese":"正常地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke normally in class.",
+    "exampleChinese":"她在課堂上正常地地說話。"
+  },
+  {
+    "id":"w407",
+    "block":1,
+    "english":"often",
+    "chinese":"經常",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke often in class.",
+    "exampleChinese":"她在課堂上經常地說話。"
+  },
+  {
+    "id":"w408",
+    "block":1,
+    "english":"outside",
+    "chinese":"在外面",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke outside in class.",
+    "exampleChinese":"她在課堂上在外面地說話。"
+  },
+  {
+    "id":"w409",
+    "block":1,
+    "english":"partly",
+    "chinese":"部分地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke partly in class.",
+    "exampleChinese":"她在課堂上部分地地說話。"
+  },
+  {
+    "id":"w410",
+    "block":1,
+    "english":"perfectly",
+    "chinese":"完美地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke perfectly in class.",
+    "exampleChinese":"她在課堂上完美地地說話。"
+  },
+  {
+    "id":"w411",
+    "block":1,
+    "english":"personally",
+    "chinese":"親自地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke personally in class.",
+    "exampleChinese":"她在課堂上親自地地說話。"
+  },
+  {
+    "id":"w412",
+    "block":1,
+    "english":"politely",
+    "chinese":"有禮貌地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke politely in class.",
+    "exampleChinese":"她在課堂上有禮貌地地說話。"
+  },
+  {
+    "id":"w413",
+    "block":1,
+    "english":"poorly",
+    "chinese":"差勁地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke poorly in class.",
+    "exampleChinese":"她在課堂上差勁地地說話。"
+  },
+  {
+    "id":"w414",
+    "block":1,
+    "english":"positively",
+    "chinese":"正面地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke positively in class.",
+    "exampleChinese":"她在課堂上正面地地說話。"
+  },
+  {
+    "id":"w415",
+    "block":1,
+    "english":"possibly",
+    "chinese":"可能地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke possibly in class.",
+    "exampleChinese":"她在課堂上可能地地說話。"
+  },
+  {
+    "id":"w416",
+    "block":1,
+    "english":"pretty",
+    "chinese":"相當地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke pretty in class.",
+    "exampleChinese":"她在課堂上相當地地說話。"
+  },
+  {
+    "id":"w417",
+    "block":1,
+    "english":"properly",
+    "chinese":"適當地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke properly in class.",
+    "exampleChinese":"她在課堂上適當地地說話。"
+  },
+  {
+    "id":"w418",
+    "block":1,
+    "english":"really",
+    "chinese":"真的",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke really in class.",
+    "exampleChinese":"她在課堂上真的地說話。"
+  },
+  {
+    "id":"w419",
+    "block":1,
+    "english":"regularly",
+    "chinese":"規律地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke regularly in class.",
+    "exampleChinese":"她在課堂上規律地地說話。"
+  },
+  {
+    "id":"w420",
+    "block":1,
+    "english":"safely",
+    "chinese":"安全地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke safely in class.",
+    "exampleChinese":"她在課堂上安全地地說話。"
+  },
+  {
+    "id":"w421",
+    "block":1,
+    "english":"seriously",
+    "chinese":"認真地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke seriously in class.",
+    "exampleChinese":"她在課堂上認真地地說話。"
+  },
+  {
+    "id":"w422",
+    "block":1,
+    "english":"shortly",
+    "chinese":"不久後",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke shortly in class.",
+    "exampleChinese":"她在課堂上不久後地說話。"
+  },
+  {
+    "id":"w423",
+    "block":1,
+    "english":"softly",
+    "chinese":"輕柔地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke softly in class.",
+    "exampleChinese":"她在課堂上輕柔地地說話。"
+  },
+  {
+    "id":"w424",
+    "block":1,
+    "english":"sometimes",
+    "chinese":"有時",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke sometimes in class.",
+    "exampleChinese":"她在課堂上有時地說話。"
+  },
+  {
+    "id":"w425",
+    "block":1,
+    "english":"soon",
+    "chinese":"很快",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke soon in class.",
+    "exampleChinese":"她在課堂上很快地說話。"
+  },
+  {
+    "id":"w426",
+    "block":1,
+    "english":"straight",
+    "chinese":"直接地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke straight in class.",
+    "exampleChinese":"她在課堂上直接地地說話。"
+  },
+  {
+    "id":"w427",
+    "block":1,
+    "english":"strongly",
+    "chinese":"強烈地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke strongly in class.",
+    "exampleChinese":"她在課堂上強烈地地說話。"
+  },
+  {
+    "id":"w428",
+    "block":1,
+    "english":"successfully",
+    "chinese":"成功地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke successfully in class.",
+    "exampleChinese":"她在課堂上成功地地說話。"
+  },
+  {
+    "id":"w429",
+    "block":1,
+    "english":"surely",
+    "chinese":"必定地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke surely in class.",
+    "exampleChinese":"她在課堂上必定地地說話。"
+  },
+  {
+    "id":"w430",
+    "block":1,
+    "english":"surprisingly",
+    "chinese":"令人驚訝地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke surprisingly in class.",
+    "exampleChinese":"她在課堂上令人驚訝地地說話。"
+  },
+  {
+    "id":"w431",
+    "block":1,
+    "english":"there",
+    "chinese":"在那裡",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke there in class.",
+    "exampleChinese":"她在課堂上在那裡地說話。"
+  },
+  {
+    "id":"w432",
+    "block":1,
+    "english":"today",
+    "chinese":"今天",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke today in class.",
+    "exampleChinese":"她在課堂上今天地說話。"
+  },
+  {
+    "id":"w433",
+    "block":1,
+    "english":"tomorrow",
+    "chinese":"明天",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke tomorrow in class.",
+    "exampleChinese":"她在課堂上明天地說話。"
+  },
+  {
+    "id":"w434",
+    "block":1,
+    "english":"truly",
+    "chinese":"真正地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke truly in class.",
+    "exampleChinese":"她在課堂上真正地地說話。"
+  },
+  {
+    "id":"w435",
+    "block":1,
+    "english":"twice",
+    "chinese":"兩次",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke twice in class.",
+    "exampleChinese":"她在課堂上兩次地說話。"
+  },
+  {
+    "id":"w436",
+    "block":1,
+    "english":"upstairs",
+    "chinese":"在樓上",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke upstairs in class.",
+    "exampleChinese":"她在課堂上在樓上地說話。"
+  },
+  {
+    "id":"w437",
+    "block":1,
+    "english":"warmly",
+    "chinese":"熱情地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke warmly in class.",
+    "exampleChinese":"她在課堂上熱情地地說話。"
+  },
+  {
+    "id":"w438",
+    "block":1,
+    "english":"well",
+    "chinese":"很好地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke well in class.",
+    "exampleChinese":"她在課堂上很好地地說話。"
+  },
+  {
+    "id":"w439",
+    "block":1,
+    "english":"weekly",
+    "chinese":"每週",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke weekly in class.",
+    "exampleChinese":"她在課堂上每週地說話。"
+  },
+  {
+    "id":"w440",
+    "block":1,
+    "english":"widely",
+    "chinese":"廣泛地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke widely in class.",
+    "exampleChinese":"她在課堂上廣泛地地說話。"
+  },
+  {
+    "id":"w441",
+    "block":1,
+    "english":"yearly",
+    "chinese":"每年",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke yearly in class.",
+    "exampleChinese":"她在課堂上每年地說話。"
+  },
+  {
+    "id":"w442",
+    "block":1,
+    "english":"yesterday",
+    "chinese":"昨天",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke yesterday in class.",
+    "exampleChinese":"她在課堂上昨天地說話。"
+  },
+  {
+    "id":"w443",
+    "block":1,
+    "english":"abroad",
+    "chinese":"在國外",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke abroad in class.",
+    "exampleChinese":"她在課堂上在國外地說話。"
+  },
+  {
+    "id":"w444",
+    "block":1,
+    "english":"ahead",
+    "chinese":"在前方",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke ahead in class.",
+    "exampleChinese":"她在課堂上在前方地說話。"
+  },
+  {
+    "id":"w445",
+    "block":1,
+    "english":"around",
+    "chinese":"到處",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke around in class.",
+    "exampleChinese":"她在課堂上到處地說話。"
+  },
+  {
+    "id":"w446",
+    "block":1,
+    "english":"back",
+    "chinese":"向後",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke back in class.",
+    "exampleChinese":"她在課堂上向後地說話。"
+  },
+  {
+    "id":"w447",
+    "block":1,
+    "english":"below",
+    "chinese":"在下方",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke below in class.",
+    "exampleChinese":"她在課堂上在下方地說話。"
+  },
+  {
+    "id":"w448",
+    "block":1,
+    "english":"beyond",
+    "chinese":"超出",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke beyond in class.",
+    "exampleChinese":"她在課堂上超出地說話。"
+  },
+  {
+    "id":"w449",
+    "block":1,
+    "english":"directly",
+    "chinese":"直接地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke directly in class.",
+    "exampleChinese":"她在課堂上直接地地說話。"
+  },
+  {
+    "id":"w450",
+    "block":1,
+    "english":"downstairs",
+    "chinese":"在樓下",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke downstairs in class.",
+    "exampleChinese":"她在課堂上在樓下地說話。"
+  },
+  {
+    "id":"w451",
+    "block":1,
+    "english":"everywhere",
+    "chinese":"到處",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke everywhere in class.",
+    "exampleChinese":"她在課堂上到處地說話。"
+  },
+  {
+    "id":"w452",
+    "block":1,
+    "english":"far",
+    "chinese":"遠地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke far in class.",
+    "exampleChinese":"她在課堂上遠地地說話。"
+  },
+  {
+    "id":"w453",
+    "block":1,
+    "english":"forward",
+    "chinese":"向前",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke forward in class.",
+    "exampleChinese":"她在課堂上向前地說話。"
+  },
+  {
+    "id":"w454",
+    "block":1,
+    "english":"here",
+    "chinese":"在這裡",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke here in class.",
+    "exampleChinese":"她在課堂上在這裡地說話。"
+  },
+  {
+    "id":"w455",
+    "block":1,
+    "english":"instead",
+    "chinese":"反而",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke instead in class.",
+    "exampleChinese":"她在課堂上反而地說話。"
+  },
+  {
+    "id":"w456",
+    "block":1,
+    "english":"nearby",
+    "chinese":"附近",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke nearby in class.",
+    "exampleChinese":"她在課堂上附近地說話。"
+  },
+  {
+    "id":"w457",
+    "block":1,
+    "english":"now",
+    "chinese":"現在",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke now in class.",
+    "exampleChinese":"她在課堂上現在地說話。"
+  },
+  {
+    "id":"w458",
+    "block":1,
+    "english":"online",
+    "chinese":"在線上",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke online in class.",
+    "exampleChinese":"她在課堂上在線上地說話。"
+  },
+  {
+    "id":"w459",
+    "block":1,
+    "english":"outdoors",
+    "chinese":"在戶外",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke outdoors in class.",
+    "exampleChinese":"她在課堂上在戶外地說話。"
+  },
+  {
+    "id":"w460",
+    "block":1,
+    "english":"overseas",
+    "chinese":"在海外",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke overseas in class.",
+    "exampleChinese":"她在課堂上在海外地說話。"
+  },
+  {
+    "id":"w461",
+    "block":1,
+    "english":"somehow",
+    "chinese":"不知怎地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke somehow in class.",
+    "exampleChinese":"她在課堂上不知怎地地說話。"
+  },
+  {
+    "id":"w462",
+    "block":1,
+    "english":"somewhere",
+    "chinese":"在某處",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke somewhere in class.",
+    "exampleChinese":"她在課堂上在某處地說話。"
+  },
+  {
+    "id":"w463",
+    "block":1,
+    "english":"upward",
+    "chinese":"向上",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke upward in class.",
+    "exampleChinese":"她在課堂上向上地說話。"
+  },
+  {
+    "id":"w464",
+    "block":1,
+    "english":"westward",
+    "chinese":"向西",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke westward in class.",
+    "exampleChinese":"她在課堂上向西地說話。"
+  },
+  {
+    "id":"w465",
+    "block":1,
+    "english":"eastward",
+    "chinese":"向東",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke eastward in class.",
+    "exampleChinese":"她在課堂上向東地說話。"
+  },
+  {
+    "id":"w466",
+    "block":1,
+    "english":"northward",
+    "chinese":"向北",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke northward in class.",
+    "exampleChinese":"她在課堂上向北地說話。"
+  },
+  {
+    "id":"w467",
+    "block":1,
+    "english":"southward",
+    "chinese":"向南",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke southward in class.",
+    "exampleChinese":"她在課堂上向南地說話。"
+  },
+  {
+    "id":"w468",
+    "block":1,
+    "english":"youthfully",
+    "chinese":"青春地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke youthfully in class.",
+    "exampleChinese":"她在課堂上青春地地說話。"
+  },
+  {
+    "id":"w469",
+    "block":1,
+    "english":"briefly",
+    "chinese":"簡短地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke briefly in class.",
+    "exampleChinese":"她在課堂上簡短地地說話。"
+  },
+  {
+    "id":"w470",
+    "block":1,
+    "english":"calmly",
+    "chinese":"冷靜地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke calmly in class.",
+    "exampleChinese":"她在課堂上冷靜地地說話。"
+  },
+  {
+    "id":"w471",
+    "block":1,
+    "english":"closer",
+    "chinese":"更近地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke closer in class.",
+    "exampleChinese":"她在課堂上更近地地說話。"
+  },
+  {
+    "id":"w472",
+    "block":1,
+    "english":"eagerly",
+    "chinese":"渴望地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke eagerly in class.",
+    "exampleChinese":"她在課堂上渴望地地說話。"
+  },
+  {
+    "id":"w473",
+    "block":1,
+    "english":"firmly",
+    "chinese":"堅定地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke firmly in class.",
+    "exampleChinese":"她在課堂上堅定地地說話。"
+  },
+  {
+    "id":"w474",
+    "block":1,
+    "english":"adapt",
+    "chinese":"適應",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will adapt this task today.",
+    "exampleChinese":"我今天會適應這個任務。"
+  },
+  {
+    "id":"w475",
+    "block":1,
+    "english":"apologize",
+    "chinese":"道歉",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will apologize this task today.",
+    "exampleChinese":"我今天會道歉這個任務。"
+  },
+  {
+    "id":"w476",
+    "block":1,
+    "english":"approve",
+    "chinese":"批准",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will approve this task today.",
+    "exampleChinese":"我今天會批准這個任務。"
+  },
+  {
+    "id":"w477",
+    "block":1,
+    "english":"celebrate",
+    "chinese":"慶祝",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will celebrate this task today.",
+    "exampleChinese":"我今天會慶祝這個任務。"
+  },
+  {
+    "id":"w478",
+    "block":1,
+    "english":"connect",
+    "chinese":"連接",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will connect this task today.",
+    "exampleChinese":"我今天會連接這個任務。"
+  },
+  {
+    "id":"w479",
+    "block":1,
+    "english":"consider",
+    "chinese":"考慮",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will consider this task today.",
+    "exampleChinese":"我今天會考慮這個任務。"
+  },
+  {
+    "id":"w480",
+    "block":1,
+    "english":"imagine",
+    "chinese":"想像",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will imagine this task today.",
+    "exampleChinese":"我今天會想像這個任務。"
+  },
+  {
+    "id":"w481",
+    "block":1,
+    "english":"accurate",
+    "chinese":"準確的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very accurate idea.",
+    "exampleChinese":"這是一個非常準確的的想法。"
+  },
+  {
+    "id":"w482",
+    "block":1,
+    "english":"advanced",
+    "chinese":"進階的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very advanced idea.",
+    "exampleChinese":"這是一個非常進階的的想法。"
+  },
+  {
+    "id":"w483",
+    "block":1,
+    "english":"balanced",
+    "chinese":"平衡的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very balanced idea.",
+    "exampleChinese":"這是一個非常平衡的的想法。"
+  },
+  {
+    "id":"w484",
+    "block":1,
+    "english":"confident",
+    "chinese":"自信的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very confident idea.",
+    "exampleChinese":"這是一個非常自信的的想法。"
+  },
+  {
+    "id":"w485",
+    "block":1,
+    "english":"curved",
+    "chinese":"彎曲的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very curved idea.",
+    "exampleChinese":"這是一個非常彎曲的的想法。"
+  },
+  {
+    "id":"w486",
+    "block":1,
+    "english":"detailed",
+    "chinese":"詳細的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very detailed idea.",
+    "exampleChinese":"這是一個非常詳細的的想法。"
+  },
+  {
+    "id":"w487",
+    "block":1,
+    "english":"account",
+    "chinese":"帳號",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This account is important for students.",
+    "exampleChinese":"這個帳號對學生很重要。"
+  },
+  {
+    "id":"w488",
+    "block":1,
+    "english":"activity",
+    "chinese":"活動",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This activity is important for students.",
+    "exampleChinese":"這個活動對學生很重要。"
+  },
+  {
+    "id":"w489",
+    "block":1,
+    "english":"advantage",
+    "chinese":"優勢",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This advantage is important for students.",
+    "exampleChinese":"這個優勢對學生很重要。"
+  },
+  {
+    "id":"w490",
+    "block":1,
+    "english":"agreement",
+    "chinese":"協議",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This agreement is important for students.",
+    "exampleChinese":"這個協議對學生很重要。"
+  },
+  {
+    "id":"w491",
+    "block":1,
+    "english":"attempt",
+    "chinese":"嘗試",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This attempt is important for students.",
+    "exampleChinese":"這個嘗試對學生很重要。"
+  },
+  {
+    "id":"w492",
+    "block":1,
+    "english":"background",
+    "chinese":"背景",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This background is important for students.",
+    "exampleChinese":"這個背景對學生很重要。"
+  },
+  {
+    "id":"w493",
+    "block":1,
+    "english":"chapter",
+    "chinese":"章節",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This chapter is important for students.",
+    "exampleChinese":"這個章節對學生很重要。"
+  },
+  {
+    "id":"w494",
+    "block":1,
+    "english":"boldly",
+    "chinese":"大膽地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke boldly in class.",
+    "exampleChinese":"她在課堂上大膽地地說話。"
+  },
+  {
+    "id":"w495",
+    "block":1,
+    "english":"correctly",
+    "chinese":"正確地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke correctly in class.",
+    "exampleChinese":"她在課堂上正確地地說話。"
+  },
+  {
+    "id":"w496",
+    "block":1,
+    "english":"efficiently",
+    "chinese":"有效率地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke efficiently in class.",
+    "exampleChinese":"她在課堂上有效率地地說話。"
+  },
+  {
+    "id":"w497",
+    "block":1,
+    "english":"focus",
+    "chinese":"專注",
+    "partOfSpeech":"動詞",
+    "exampleEnglish":"I will focus this task today.",
+    "exampleChinese":"我今天會專注這個任務。"
+  },
+  {
+    "id":"w498",
+    "block":1,
+    "english":"flexible",
+    "chinese":"有彈性的",
+    "partOfSpeech":"形容詞",
+    "exampleEnglish":"This is a very flexible idea.",
+    "exampleChinese":"這是一個非常有彈性的的想法。"
+  },
+  {
+    "id":"w499",
+    "block":1,
+    "english":"feature",
+    "chinese":"功能",
+    "partOfSpeech":"名詞",
+    "exampleEnglish":"This feature is important for students.",
+    "exampleChinese":"這個功能對學生很重要。"
+  },
+  {
+    "id":"w500",
+    "block":1,
+    "english":"smoothly",
+    "chinese":"順暢地",
+    "partOfSpeech":"副詞",
+    "exampleEnglish":"She spoke smoothly in class.",
+    "exampleChinese":"她在課堂上順暢地地說話。"
+  }
+]
