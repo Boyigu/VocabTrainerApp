@@ -1,0 +1,1402 @@
+--- a/app/src/main/assets/vocab_500_words.json
++++ b/app/src/main/assets/vocab_500_words.json
+@@ -5,8 +5,11 @@
+     "english":"abandon",
+     "chinese":"放棄",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will abandon this task today.",
+-    "exampleChinese":"我今天會放棄這個任務。"
++    "exampleEnglish":"I had to abandon the plan because the weather got too dangerous.",
++    "exampleChinese":"因為天氣變得太危險，我只好放棄那個計畫。",
++    "scene":"旅行 / 行程變更",
++    "collocation":"abandon + plan/project/idea",
++    "note":"abandon 表示完全放棄，不只是暫停；若只是延後，用 postpone。"
+   },
+   {
+     "id":"w002",
+@@ -14,8 +17,11 @@
+     "english":"accept",
+     "chinese":"接受",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will accept this task today.",
+-    "exampleChinese":"我今天會接受這個任務。"
++    "exampleEnglish":"I accepted the job offer after talking it over with my family.",
++    "exampleChinese":"和家人討論後，我接受了那份工作邀請。",
++    "scene":"職涯 / 工作錄取",
++    "collocation":"accept an offer / accept an invitation",
++    "note":"accept 是接受邀請、提議或事實；不要說 accept to do，要說 agree to do。"
+   },
+   {
+     "id":"w003",
+@@ -23,8 +29,11 @@
+     "english":"achieve",
+     "chinese":"達成",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will achieve this task today.",
+-    "exampleChinese":"我今天會達成這個任務。"
++    "exampleEnglish":"She achieved her goal of running five kilometers without stopping.",
++    "exampleChinese":"她達成了不停下來跑五公里的目標。",
++    "scene":"運動 / 目標達成",
++    "collocation":"achieve a goal / achieve success",
++    "note":"achieve 通常用在目標、成就，不自然搭配一般小任務。"
+   },
+   {
+     "id":"w004",
+@@ -32,8 +41,11 @@
+     "english":"admire",
+     "chinese":"欽佩",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will admire this task today.",
+-    "exampleChinese":"我今天會欽佩這個任務。"
++    "exampleEnglish":"I really admire people who stay calm under pressure.",
++    "exampleChinese":"我很欽佩那些在壓力下仍能保持冷靜的人。",
++    "scene":"職場 / 人格特質",
++    "collocation":"admire someone for something",
++    "note":"admire 是欽佩人或特質，不是單純喜歡物品。"
+   },
+   {
+     "id":"w005",
+@@ -41,8 +53,11 @@
+     "english":"announce",
+     "chinese":"宣布",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will announce this task today.",
+-    "exampleChinese":"我今天會宣布這個任務。"
++    "exampleEnglish":"The school announced that classes would be canceled tomorrow.",
++    "exampleChinese":"學校宣布明天停課。",
++    "scene":"校園 / 公告",
++    "collocation":"announce that... / announce a decision",
++    "note":"announce 用於正式公開消息；日常告訴某人通常用 tell。"
+   },
+   {
+     "id":"w006",
+@@ -50,8 +65,11 @@
+     "english":"borrow",
+     "chinese":"借入",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will borrow this task today.",
+-    "exampleChinese":"我今天會借入這個任務。"
++    "exampleEnglish":"Can I borrow your charger for a few minutes?",
++    "exampleChinese":"我可以借你的充電器幾分鐘嗎？",
++    "scene":"日常 / 借物品",
++    "collocation":"borrow something from someone",
++    "note":"borrow 是借入；lend 是借出，兩者不要混淆。"
+   },
+   {
+     "id":"w007",
+@@ -59,8 +77,11 @@
+     "english":"compare",
+     "chinese":"比較",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will compare this task today.",
+-    "exampleChinese":"我今天會比較這個任務。"
++    "exampleEnglish":"Before buying a laptop, I compared the prices on three websites.",
++    "exampleChinese":"買筆電前，我比較了三個網站上的價格。",
++    "scene":"購物 / 比價",
++    "collocation":"compare A with B / compare prices",
++    "note":"compare 常用於兩個以上選項之間的比較。"
+   },
+   {
+     "id":"w008",
+@@ -68,8 +89,11 @@
+     "english":"deliver",
+     "chinese":"遞送",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will deliver this task today.",
+-    "exampleChinese":"我今天會遞送這個任務。"
++    "exampleEnglish":"The restaurant delivered the food faster than I expected.",
++    "exampleChinese":"餐廳送餐的速度比我預期還快。",
++    "scene":"外送 / 餐飲",
++    "collocation":"deliver food/package/message",
++    "note":"deliver 常用於遞送餐點、包裹或傳達訊息。"
+   },
+   {
+     "id":"w009",
+@@ -77,8 +101,11 @@
+     "english":"encourage",
+     "chinese":"鼓勵",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will encourage this task today.",
+-    "exampleChinese":"我今天會鼓勵這個任務。"
++    "exampleEnglish":"My teacher encouraged me to speak English even when I made mistakes.",
++    "exampleChinese":"老師鼓勵我即使犯錯也要開口說英文。",
++    "scene":"學習 / 老師鼓勵",
++    "collocation":"encourage someone to do something",
++    "note":"encourage 後面常接人再接 to V。"
+   },
+   {
+     "id":"w010",
+@@ -86,8 +113,11 @@
+     "english":"improve",
+     "chinese":"改善",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will improve this task today.",
+-    "exampleChinese":"我今天會改善這個任務。"
++    "exampleEnglish":"Using flashcards every day helped me improve my vocabulary.",
++    "exampleChinese":"每天用單字卡幫助我增進詞彙量。",
++    "scene":"學習 / 背單字",
++    "collocation":"improve skills/English/health",
++    "note":"improve 是讓能力或狀況變好，不是單純增加數量。"
+   },
+   {
+     "id":"w011",
+@@ -95,8 +125,11 @@
+     "english":"protect",
+     "chinese":"保護",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will protect this task today.",
+-    "exampleChinese":"我今天會保護這個任務。"
++    "exampleEnglish":"Please protect your account with a strong password.",
++    "exampleChinese":"請用高強度密碼保護你的帳號。",
++    "scene":"網路 / 帳號安全",
++    "collocation":"protect someone/something from...",
++    "note":"protect 常搭配 from，表示保護免受某種傷害。"
+   },
+   {
+     "id":"w012",
+@@ -104,8 +137,11 @@
+     "english":"refuse",
+     "chinese":"拒絕",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will refuse this task today.",
+-    "exampleChinese":"我今天會拒絕這個任務。"
++    "exampleEnglish":"He refused to sign the contract because one rule was unclear.",
++    "exampleChinese":"因為有一條規則不清楚，他拒絕簽合約。",
++    "scene":"工作 / 合約",
++    "collocation":"refuse to do something",
++    "note":"refuse 語氣比 decline 直接；正式場合可用 decline 較委婉。"
+   },
+   {
+     "id":"w013",
+@@ -113,8 +149,11 @@
+     "english":"support",
+     "chinese":"支持",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will support this task today.",
+-    "exampleChinese":"我今天會支持這個任務。"
++    "exampleEnglish":"My parents supported my decision to study abroad.",
++    "exampleChinese":"我父母支持我出國留學的決定。",
++    "scene":"家庭 / 重大決定",
++    "collocation":"support a decision / support someone",
++    "note":"support 可表示精神、金錢或行動上的支持。"
+   },
+   {
+     "id":"w014",
+@@ -122,8 +161,11 @@
+     "english":"develop",
+     "chinese":"發展",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will develop this task today.",
+-    "exampleChinese":"我今天會發展這個任務。"
++    "exampleEnglish":"The company is developing a new app for language learners.",
++    "exampleChinese":"那家公司正在開發一款給語言學習者的新 App。",
++    "scene":"科技 / App 開發",
++    "collocation":"develop an app/product/skill",
++    "note":"develop 可用於開發產品，也可表示培養能力。"
+   },
+   {
+     "id":"w015",
+@@ -131,8 +173,11 @@
+     "english":"explain",
+     "chinese":"解釋",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will explain this task today.",
+-    "exampleChinese":"我今天會解釋這個任務。"
++    "exampleEnglish":"Could you explain the payment process one more time?",
++    "exampleChinese":"你可以再解釋一次付款流程嗎？",
++    "scene":"購物 / 付款流程",
++    "collocation":"explain something to someone",
++    "note":"explain 後面直接接事情；不要說 explain me，應說 explain it to me。"
+   },
+   {
+     "id":"w016",
+@@ -140,8 +185,11 @@
+     "english":"arrive",
+     "chinese":"到達",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will arrive this task today.",
+-    "exampleChinese":"我今天會到達這個任務。"
++    "exampleEnglish":"We arrived at the airport two hours before the flight.",
++    "exampleChinese":"我們在航班起飛前兩小時抵達機場。",
++    "scene":"旅遊 / 機場",
++    "collocation":"arrive at/in a place",
++    "note":"arrive at 用於機場、車站等地點；arrive in 用於城市或國家。"
+   },
+   {
+     "id":"w017",
+@@ -149,8 +197,11 @@
+     "english":"believe",
+     "chinese":"相信",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will believe this task today.",
+-    "exampleChinese":"我今天會相信這個任務。"
++    "exampleEnglish":"I believe this plan will work if everyone helps.",
++    "exampleChinese":"如果大家都幫忙，我相信這個計畫會成功。",
++    "scene":"團隊 / 計畫",
++    "collocation":"believe that... / believe in someone",
++    "note":"believe that 是相信某件事；believe in 是信任某人或理念。"
+   },
+   {
+     "id":"w018",
+@@ -158,8 +209,11 @@
+     "english":"collect",
+     "chinese":"收集",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will collect this task today.",
+-    "exampleChinese":"我今天會收集這個任務。"
++    "exampleEnglish":"She collects receipts so she can track her spending.",
++    "exampleChinese":"她收集收據，好追蹤自己的花費。",
++    "scene":"理財 / 記帳",
++    "collocation":"collect receipts/data/stamps",
++    "note":"collect 是有目的地收集，不只是拿起來。"
+   },
+   {
+     "id":"w019",
+@@ -167,8 +221,11 @@
+     "english":"create",
+     "chinese":"創造",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will create this task today.",
+-    "exampleChinese":"我今天會創造這個任務。"
++    "exampleEnglish":"He created a simple schedule to study a little every day.",
++    "exampleChinese":"他做了一個簡單的讀書計畫，讓自己每天讀一點。",
++    "scene":"學習 / 時間安排",
++    "collocation":"create a plan/account/design",
++    "note":"create 強調從無到有做出來。"
+   },
+   {
+     "id":"w020",
+@@ -176,8 +233,11 @@
+     "english":"decide",
+     "chinese":"決定",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will decide this task today.",
+-    "exampleChinese":"我今天會決定這個任務。"
++    "exampleEnglish":"We need to decide where to eat before the movie starts.",
++    "exampleChinese":"電影開始前，我們得決定要去哪裡吃飯。",
++    "scene":"朋友 / 約會安排",
++    "collocation":"decide where/what/whether to...",
++    "note":"decide 後常接疑問詞 + to V，表示決定做什麼。"
+   },
+   {
+     "id":"w021",
+@@ -185,8 +245,11 @@
+     "english":"discover",
+     "chinese":"發現",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will discover this task today.",
+-    "exampleChinese":"我今天會發現這個任務。"
++    "exampleEnglish":"I discovered a great coffee shop near the station.",
++    "exampleChinese":"我在車站附近發現了一間很棒的咖啡店。",
++    "scene":"日常 / 找店",
++    "collocation":"discover a place/fact/problem",
++    "note":"discover 有意外發現的感覺，比 find 更有新鮮感。"
+   },
+   {
+     "id":"w022",
+@@ -194,8 +257,11 @@
+     "english":"invite",
+     "chinese":"邀請",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will invite this task today.",
+-    "exampleChinese":"我今天會邀請這個任務。"
++    "exampleEnglish":"We invited our neighbors over for dinner this weekend.",
++    "exampleChinese":"我們邀請鄰居這週末來家裡吃晚餐。",
++    "scene":"社交 / 邀請",
++    "collocation":"invite someone to/over for...",
++    "note":"invite 後面常接人，再接活動或地點。"
+   },
+   {
+     "id":"w023",
+@@ -203,8 +269,11 @@
+     "english":"prepare",
+     "chinese":"準備",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will prepare this task today.",
+-    "exampleChinese":"我今天會準備這個任務。"
++    "exampleEnglish":"I prepared some questions before the interview.",
++    "exampleChinese":"面試前我準備了一些問題。",
++    "scene":"職場 / 面試",
++    "collocation":"prepare for something / prepare something",
++    "note":"prepare for 是為某事做準備；prepare something 是準備某物。"
+   },
+   {
+     "id":"w024",
+@@ -212,8 +281,11 @@
+     "english":"remember",
+     "chinese":"記得",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will remember this task today.",
+-    "exampleChinese":"我今天會記得這個任務。"
++    "exampleEnglish":"Remember to lock the door before you leave.",
++    "exampleChinese":"離開前記得鎖門。",
++    "scene":"日常 / 出門提醒",
++    "collocation":"remember to do / remember doing",
++    "note":"remember to do 是記得要做；remember doing 是記得做過。"
+   },
+   {
+     "id":"w025",
+@@ -221,8 +293,11 @@
+     "english":"suggest",
+     "chinese":"建議",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will suggest this task today.",
+-    "exampleChinese":"我今天會建議這個任務。"
++    "exampleEnglish":"I suggest booking the tickets now before the prices go up.",
++    "exampleChinese":"我建議現在就訂票，免得之後票價漲上去。",
++    "scene":"旅遊 / 訂票",
++    "collocation":"suggest + V-ing / suggest that...",
++    "note":"suggest 後面常接 V-ing，不接 to V。"
+   },
+   {
+     "id":"w026",
+@@ -230,8 +305,11 @@
+     "english":"avoid",
+     "chinese":"避免",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will avoid this task today.",
+-    "exampleChinese":"我今天會避免這個任務。"
++    "exampleEnglish":"Try to avoid using your phone right before bed.",
++    "exampleChinese":"睡前盡量避免滑手機。",
++    "scene":"生活習慣 / 睡眠",
++    "collocation":"avoid + V-ing",
++    "note":"avoid 後面接 V-ing，不接 to V。"
+   },
+   {
+     "id":"w027",
+@@ -239,8 +317,11 @@
+     "english":"choose",
+     "chinese":"選擇",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will choose this task today.",
+-    "exampleChinese":"我今天會選擇這個任務。"
++    "exampleEnglish":"You can choose a seat by the window when you check in online.",
++    "exampleChinese":"線上報到時，你可以選靠窗的座位。",
++    "scene":"旅遊 / 線上報到",
++    "collocation":"choose a seat/option/side",
++    "note":"choose 強調從選項中挑一個。"
+   },
+   {
+     "id":"w028",
+@@ -248,8 +329,11 @@
+     "english":"complete",
+     "chinese":"完成",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will complete this task today.",
+-    "exampleChinese":"我今天會完成這個任務。"
++    "exampleEnglish":"Please complete the form before you come to the counter.",
++    "exampleChinese":"請在到櫃台前先填完表格。",
++    "scene":"行政 / 表格",
++    "collocation":"complete a form/task/course",
++    "note":"complete 是完整做完，比 finish 更正式。"
+   },
+   {
+     "id":"w029",
+@@ -257,8 +341,11 @@
+     "english":"increase",
+     "chinese":"增加",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will increase this task today.",
+-    "exampleChinese":"我今天會增加這個任務。"
++    "exampleEnglish":"The store increased the price after the holiday sale ended.",
++    "exampleChinese":"假日特賣結束後，店家調高了價格。",
++    "scene":"購物 / 價格變動",
++    "collocation":"increase the price/speed/number",
++    "note":"increase 可作及物或不及物，表示增加或提高。"
+   },
+   {
+     "id":"w030",
+@@ -266,8 +353,11 @@
+     "english":"reduce",
+     "chinese":"減少",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will reduce this task today.",
+-    "exampleChinese":"我今天會減少這個任務。"
++    "exampleEnglish":"We should reduce screen time during exams.",
++    "exampleChinese":"考試期間我們應該減少螢幕使用時間。",
++    "scene":"學習 / 生活管理",
++    "collocation":"reduce costs/risk/time",
++    "note":"reduce 用於降低數量、風險或程度。"
+   },
+   {
+     "id":"w031",
+@@ -275,8 +365,11 @@
+     "english":"allow",
+     "chinese":"允許",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will allow this task today.",
+-    "exampleChinese":"我今天會允許這個任務。"
++    "exampleEnglish":"This ticket allows you to enter the museum twice in one day.",
++    "exampleChinese":"這張票允許你一天內進入博物館兩次。",
++    "scene":"旅遊 / 票券規則",
++    "collocation":"allow someone to do something",
++    "note":"allow 後面常接 someone to do something。"
+   },
+   {
+     "id":"w032",
+@@ -284,8 +377,11 @@
+     "english":"answer",
+     "chinese":"回答",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will answer this task today.",
+-    "exampleChinese":"我今天會回答這個任務。"
++    "exampleEnglish":"Could you answer the customer’s question before lunch?",
++    "exampleChinese":"你可以在午餐前回覆顧客的問題嗎？",
++    "scene":"工作 / 客服",
++    "collocation":"answer a question/call/email",
++    "note":"answer 可用於問題、電話、信件；reply 通常是不及物，常接 to。"
+   },
+   {
+     "id":"w033",
+@@ -293,8 +389,11 @@
+     "english":"appear",
+     "chinese":"出現",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will appear this task today.",
+-    "exampleChinese":"我今天會出現這個任務。"
++    "exampleEnglish":"A warning message appeared on my screen.",
++    "exampleChinese":"我的螢幕上出現了一則警告訊息。",
++    "scene":"科技 / 電腦使用",
++    "collocation":"appear on screen / appear to be",
++    "note":"appear 可表示出現，也可表示看起來。"
+   },
+   {
+     "id":"w034",
+@@ -302,8 +401,11 @@
+     "english":"build",
+     "chinese":"建立",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will build this task today.",
+-    "exampleChinese":"我今天會建立這個任務。"
++    "exampleEnglish":"They built a small garden behind the house.",
++    "exampleChinese":"他們在房子後面建了一個小花園。",
++    "scene":"居家 / 空間改造",
++    "collocation":"build a house/team/system",
++    "note":"build 不只建築，也可建立團隊或系統。"
+   },
+   {
+     "id":"w035",
+@@ -311,8 +413,11 @@
+     "english":"carry",
+     "chinese":"攜帶",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will carry this task today.",
+-    "exampleChinese":"我今天會攜帶這個任務。"
++    "exampleEnglish":"I always carry an umbrella during the rainy season.",
++    "exampleChinese":"雨季時我總是隨身帶傘。",
++    "scene":"日常 / 天氣",
++    "collocation":"carry a bag/umbrella/ID",
++    "note":"carry 強調隨身攜帶或搬運。"
+   },
+   {
+     "id":"w036",
+@@ -320,8 +425,11 @@
+     "english":"change",
+     "chinese":"改變",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will change this task today.",
+-    "exampleChinese":"我今天會改變這個任務。"
++    "exampleEnglish":"Can we change the meeting time to three o’clock?",
++    "exampleChinese":"我們可以把會議時間改到三點嗎？",
++    "scene":"工作 / 改時間",
++    "collocation":"change the time/plan/subject",
++    "note":"change 可指改變時間、計畫或話題。"
+   },
+   {
+     "id":"w037",
+@@ -329,8 +437,11 @@
+     "english":"check",
+     "chinese":"檢查",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will check this task today.",
+-    "exampleChinese":"我今天會檢查這個任務。"
++    "exampleEnglish":"Please check your email for the confirmation number.",
++    "exampleChinese":"請查看你的 email 找確認碼。",
++    "scene":"訂購 / 確認信",
++    "collocation":"check email/status/details",
++    "note":"check 是確認或查看，不一定是檢查錯誤。"
+   },
+   {
+     "id":"w038",
+@@ -338,8 +449,11 @@
+     "english":"clean",
+     "chinese":"清理",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will clean this task today.",
+-    "exampleChinese":"我今天會清理這個任務。"
++    "exampleEnglish":"I need to clean the kitchen before my guests arrive.",
++    "exampleChinese":"客人來之前，我得先把廚房清乾淨。",
++    "scene":"居家 / 打掃",
++    "collocation":"clean the room/kitchen/table",
++    "note":"clean 可作動詞也可作形容詞，注意詞性。"
+   },
+   {
+     "id":"w039",
+@@ -347,8 +461,11 @@
+     "english":"close",
+     "chinese":"關閉",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will close this task today.",
+-    "exampleChinese":"我今天會關閉這個任務。"
++    "exampleEnglish":"Please close the window before turning on the air conditioner.",
++    "exampleChinese":"開冷氣前請先關窗戶。",
++    "scene":"居家 / 開冷氣",
++    "collocation":"close the door/window/app",
++    "note":"close 可用於門窗，也可用於關閉 App 或帳戶。"
+   },
+   {
+     "id":"w040",
+@@ -356,8 +473,11 @@
+     "english":"continue",
+     "chinese":"繼續",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will continue this task today.",
+-    "exampleChinese":"我今天會繼續這個任務。"
++    "exampleEnglish":"Let’s continue this discussion after everyone has read the report.",
++    "exampleChinese":"等大家都看完報告後，我們再繼續討論。",
++    "scene":"職場 / 會議討論",
++    "collocation":"continue a discussion / continue to do",
++    "note":"continue 可接名詞、to V 或 V-ing。"
+   },
+   {
+     "id":"w041",
+@@ -365,8 +485,11 @@
+     "english":"control",
+     "chinese":"控制",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will control this task today.",
+-    "exampleChinese":"我今天會控制這個任務。"
++    "exampleEnglish":"You can control the lights with your phone.",
++    "exampleChinese":"你可以用手機控制燈光。",
++    "scene":"居家 / 智慧家電",
++    "collocation":"control lights/speed/budget",
++    "note":"control 指掌控或調節某物。"
+   },
+   {
+     "id":"w042",
+@@ -374,8 +497,11 @@
+     "english":"cook",
+     "chinese":"烹飪",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will cook this task today.",
+-    "exampleChinese":"我今天會烹飪這個任務。"
++    "exampleEnglish":"My brother cooks dinner for the family every Friday.",
++    "exampleChinese":"我哥哥每週五為家人做晚餐。",
++    "scene":"家庭 / 晚餐",
++    "collocation":"cook dinner/meal/food",
++    "note":"cook 是烹調；make dinner 也常見。"
+   },
+   {
+     "id":"w043",
+@@ -383,8 +509,11 @@
+     "english":"correct",
+     "chinese":"改正",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will correct this task today.",
+-    "exampleChinese":"我今天會改正這個任務。"
++    "exampleEnglish":"The teacher corrected my pronunciation after class.",
++    "exampleChinese":"老師下課後糾正了我的發音。",
++    "scene":"學習 / 口說",
++    "collocation":"correct a mistake/pronunciation",
++    "note":"correct 是改正錯誤，也可作形容詞表示正確的。"
+   },
+   {
+     "id":"w044",
+@@ -392,8 +521,11 @@
+     "english":"cross",
+     "chinese":"穿越",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will cross this task today.",
+-    "exampleChinese":"我今天會穿越這個任務。"
++    "exampleEnglish":"Be careful when you cross the street at night.",
++    "exampleChinese":"晚上過馬路時要小心。",
++    "scene":"交通 / 行人安全",
++    "collocation":"cross the street/road/bridge",
++    "note":"cross 是穿越道路、橋或邊界。"
+   },
+   {
+     "id":"w045",
+@@ -401,8 +533,11 @@
+     "english":"dance",
+     "chinese":"跳舞",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will dance this task today.",
+-    "exampleChinese":"我今天會跳舞這個任務。"
++    "exampleEnglish":"They danced together at the wedding.",
++    "exampleChinese":"他們在婚禮上一起跳舞。",
++    "scene":"社交 / 婚禮",
++    "collocation":"dance with someone / dance at a party",
++    "note":"dance 不需要接賓語，除非說跳某種舞。"
+   },
+   {
+     "id":"w046",
+@@ -410,8 +545,11 @@
+     "english":"describe",
+     "chinese":"描述",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will describe this task today.",
+-    "exampleChinese":"我今天會描述這個任務。"
++    "exampleEnglish":"Can you describe what the person was wearing?",
++    "exampleChinese":"你可以描述那個人穿什麼嗎？",
++    "scene":"日常 / 找人",
++    "collocation":"describe what/how/someone",
++    "note":"describe 是用細節說明人、物或情況。"
+   },
+   {
+     "id":"w047",
+@@ -419,8 +557,11 @@
+     "english":"design",
+     "chinese":"設計",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will design this task today.",
+-    "exampleChinese":"我今天會設計這個任務。"
++    "exampleEnglish":"She designed the poster for our school event.",
++    "exampleChinese":"她為我們的校園活動設計了海報。",
++    "scene":"校園 / 活動宣傳",
++    "collocation":"design a poster/app/room",
++    "note":"design 強調有目的地規劃外觀或功能。"
+   },
+   {
+     "id":"w048",
+@@ -428,8 +569,11 @@
+     "english":"draw",
+     "chinese":"畫",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will draw this task today.",
+-    "exampleChinese":"我今天會畫這個任務。"
++    "exampleEnglish":"Could you draw a simple map so I can find the building?",
++    "exampleChinese":"你可以畫一張簡單地圖，好讓我找到那棟建築嗎？",
++    "scene":"問路 / 地圖",
++    "collocation":"draw a map/picture/line",
++    "note":"draw 是畫圖或線，也可表示吸引注意。"
+   },
+   {
+     "id":"w049",
+@@ -437,8 +581,11 @@
+     "english":"drive",
+     "chinese":"駕駛",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will drive this task today.",
+-    "exampleChinese":"我今天會駕駛這個任務。"
++    "exampleEnglish":"I don’t drive to work because parking is too expensive.",
++    "exampleChinese":"我不上班開車，因為停車費太貴。",
++    "scene":"通勤 / 交通",
++    "collocation":"drive to work/school",
++    "note":"drive 可表示開車，也可作名詞表示車程或動力。"
+   },
+   {
+     "id":"w050",
+@@ -446,8 +593,11 @@
+     "english":"earn",
+     "chinese":"賺取",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will earn this task today.",
+-    "exampleChinese":"我今天會賺取這個任務。"
++    "exampleEnglish":"She earns extra money by tutoring students after school.",
++    "exampleChinese":"她放學後幫學生家教來賺外快。",
++    "scene":"工作 / 兼職",
++    "collocation":"earn money/income/respect",
++    "note":"earn 通常是靠努力得到金錢、尊重或成果。"
+   },
+   {
+     "id":"w051",
+@@ -455,8 +605,11 @@
+     "english":"enter",
+     "chinese":"進入",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will enter this task today.",
+-    "exampleChinese":"我今天會進入這個任務。"
++    "exampleEnglish":"Please enter your password to unlock the app.",
++    "exampleChinese":"請輸入密碼來解鎖 App。",
++    "scene":"科技 / 登入",
++    "collocation":"enter a password/room/competition",
++    "note":"enter 可指進入場所，也可指輸入資料。"
+   },
+   {
+     "id":"w052",
+@@ -464,8 +617,11 @@
+     "english":"enjoy",
+     "chinese":"享受",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will enjoy this task today.",
+-    "exampleChinese":"我今天會享受這個任務。"
++    "exampleEnglish":"I really enjoy walking around the night market.",
++    "exampleChinese":"我真的很喜歡逛夜市。",
++    "scene":"休閒 / 夜市",
++    "collocation":"enjoy + V-ing",
++    "note":"enjoy 後面接 V-ing，不接 to V。"
+   },
+   {
+     "id":"w053",
+@@ -473,8 +629,11 @@
+     "english":"finish",
+     "chinese":"完成",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will finish this task today.",
+-    "exampleChinese":"我今天會完成這個任務。"
++    "exampleEnglish":"I need to finish this report before I leave the office.",
++    "exampleChinese":"我得在離開辦公室前完成這份報告。",
++    "scene":"職場 / 截止時間",
++    "collocation":"finish homework/report/work",
++    "note":"finish 強調做完；complete 較正式。"
+   },
+   {
+     "id":"w054",
+@@ -482,8 +641,11 @@
+     "english":"follow",
+     "chinese":"跟隨",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will follow this task today.",
+-    "exampleChinese":"我今天會跟隨這個任務。"
++    "exampleEnglish":"Follow the signs to get to the exit.",
++    "exampleChinese":"跟著指標走就能到出口。",
++    "scene":"交通 / 場館動線",
++    "collocation":"follow signs/instructions/rules",
++    "note":"follow 可指跟隨，也可指遵守指示或規則。"
+   },
+   {
+     "id":"w055",
+@@ -491,8 +653,11 @@
+     "english":"forget",
+     "chinese":"忘記",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will forget this task today.",
+-    "exampleChinese":"我今天會忘記這個任務。"
++    "exampleEnglish":"Don’t forget to bring your ID to the test center.",
++    "exampleChinese":"別忘了帶身分證到考場。",
++    "scene":"考試 / 提醒",
++    "collocation":"forget to do / forget doing",
++    "note":"forget to do 是忘記要做；forget doing 是忘記做過。"
+   },
+   {
+     "id":"w056",
+@@ -500,8 +665,11 @@
+     "english":"gather",
+     "chinese":"收集",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will gather this task today.",
+-    "exampleChinese":"我今天會收集這個任務。"
++    "exampleEnglish":"We gathered everyone’s lunch orders before calling the restaurant.",
++    "exampleChinese":"打給餐廳前，我們先收集了大家的午餐訂單。",
++    "scene":"辦公室 / 訂餐",
++    "collocation":"gather information/orders/people",
++    "note":"gather 比 collect 更常用於人或資訊聚集。"
+   },
+   {
+     "id":"w057",
+@@ -509,8 +677,11 @@
+     "english":"guess",
+     "chinese":"猜測",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will guess this task today.",
+-    "exampleChinese":"我今天會猜測這個任務。"
++    "exampleEnglish":"I guessed the answer because I didn’t know the word.",
++    "exampleChinese":"我因為不認識那個單字，只好猜答案。",
++    "scene":"學習 / 測驗",
++    "collocation":"guess the answer / guess what",
++    "note":"guess 是在不確定時猜測。"
+   },
+   {
+     "id":"w058",
+@@ -518,8 +689,11 @@
+     "english":"handle",
+     "chinese":"處理",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will handle this task today.",
+-    "exampleChinese":"我今天會處理這個任務。"
++    "exampleEnglish":"Our manager handled the customer complaint very calmly.",
++    "exampleChinese":"我們經理很冷靜地處理了顧客抱怨。",
++    "scene":"工作 / 客訴",
++    "collocation":"handle a problem/complaint/situation",
++    "note":"handle 表示處理狀況，常用於工作問題。"
+   },
+   {
+     "id":"w059",
+@@ -527,8 +701,11 @@
+     "english":"happen",
+     "chinese":"發生",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will happen this task today.",
+-    "exampleChinese":"我今天會發生這個任務。"
++    "exampleEnglish":"What happened to your phone? The screen is cracked.",
++    "exampleChinese":"你的手機怎麼了？螢幕裂了。",
++    "scene":"日常 / 手機損壞",
++    "collocation":"what happened to...? / happen suddenly",
++    "note":"happen 通常不接直接受詞；不要說 happen something。"
+   },
+   {
+     "id":"w060",
+@@ -536,8 +713,11 @@
+     "english":"help",
+     "chinese":"幫助",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will help this task today.",
+-    "exampleChinese":"我今天會幫助這個任務。"
++    "exampleEnglish":"Can you help me move this table?",
++    "exampleChinese":"你可以幫我搬這張桌子嗎？",
++    "scene":"日常 / 搬東西",
++    "collocation":"help someone do something",
++    "note":"help 後面可接人 + 原形動詞。"
+   },
+   {
+     "id":"w061",
+@@ -545,8 +725,11 @@
+     "english":"hide",
+     "chinese":"躲藏",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will hide this task today.",
+-    "exampleChinese":"我今天會躲藏這個任務。"
++    "exampleEnglish":"He hid the birthday gift under the bed.",
++    "exampleChinese":"他把生日禮物藏在床底下。",
++    "scene":"家庭 / 驚喜",
++    "collocation":"hide something from someone",
++    "note":"hide 是藏起來，可接物品或自己。"
+   },
+   {
+     "id":"w062",
+@@ -554,8 +737,11 @@
+     "english":"hope",
+     "chinese":"希望",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will hope this task today.",
+-    "exampleChinese":"我今天會希望這個任務。"
++    "exampleEnglish":"I hope the train isn’t too crowded tonight.",
++    "exampleChinese":"我希望今晚火車不要太擠。",
++    "scene":"交通 / 通勤",
++    "collocation":"hope that... / hope to do",
++    "note":"hope 表示希望；不要說 hope someone to do，改用 want someone to do。"
+   },
+   {
+     "id":"w063",
+@@ -563,8 +749,11 @@
+     "english":"include",
+     "chinese":"包含",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will include this task today.",
+-    "exampleChinese":"我今天會包含這個任務。"
++    "exampleEnglish":"Does the price include breakfast?",
++    "exampleChinese":"這個價格包含早餐嗎？",
++    "scene":"旅遊 / 訂房",
++    "collocation":"include breakfast/tax/service",
++    "note":"include 用於某項內容是否包含在內。"
+   },
+   {
+     "id":"w064",
+@@ -572,8 +761,11 @@
+     "english":"join",
+     "chinese":"加入",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will join this task today.",
+-    "exampleChinese":"我今天會加入這個任務。"
++    "exampleEnglish":"Do you want to join us for dinner after work?",
++    "exampleChinese":"下班後你要不要跟我們一起吃晚餐？",
++    "scene":"社交 / 邀約",
++    "collocation":"join someone for something",
++    "note":"join 可表示加入活動、人群或組織。"
+   },
+   {
+     "id":"w065",
+@@ -581,8 +773,11 @@
+     "english":"jump",
+     "chinese":"跳",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will jump this task today.",
+-    "exampleChinese":"我今天會跳這個任務。"
++    "exampleEnglish":"The kids jumped into the pool as soon as we arrived.",
++    "exampleChinese":"我們一到，孩子們就跳進泳池。",
++    "scene":"休閒 / 游泳池",
++    "collocation":"jump into/over/off",
++    "note":"jump 常搭配 into、over、off 表示方向。"
+   },
+   {
+     "id":"w066",
+@@ -590,8 +785,11 @@
+     "english":"keep",
+     "chinese":"保持",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will keep this task today.",
+-    "exampleChinese":"我今天會保持這個任務。"
++    "exampleEnglish":"Keep your receipt in case you need to return the item.",
++    "exampleChinese":"保留收據，以免之後需要退貨。",
++    "scene":"購物 / 退貨",
++    "collocation":"keep a receipt/secret/promise",
++    "note":"keep 可表示保留、維持或遵守。"
+   },
+   {
+     "id":"w067",
+@@ -599,8 +797,11 @@
+     "english":"knock",
+     "chinese":"敲",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will knock this task today.",
+-    "exampleChinese":"我今天會敲這個任務。"
++    "exampleEnglish":"Someone knocked on the door while I was taking a shower.",
++    "exampleChinese":"我洗澡時有人敲門。",
++    "scene":"居家 / 訪客",
++    "collocation":"knock on the door/window",
++    "note":"knock 表示敲，常搭配 on。"
+   },
+   {
+     "id":"w068",
+@@ -608,8 +809,11 @@
+     "english":"learn",
+     "chinese":"學習",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will learn this task today.",
+-    "exampleChinese":"我今天會學習這個任務。"
++    "exampleEnglish":"I learned how to cook this dish from my grandmother.",
++    "exampleChinese":"我從奶奶那裡學會了做這道菜。",
++    "scene":"家庭 / 做菜",
++    "collocation":"learn how to do something",
++    "note":"learn 是學會知識或技能。"
+   },
+   {
+     "id":"w069",
+@@ -617,8 +821,11 @@
+     "english":"leave",
+     "chinese":"離開",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will leave this task today.",
+-    "exampleChinese":"我今天會離開這個任務。"
++    "exampleEnglish":"I left my wallet at home this morning.",
++    "exampleChinese":"我今天早上把錢包忘在家裡。",
++    "scene":"日常 / 忘帶東西",
++    "collocation":"leave something somewhere",
++    "note":"leave 可表示離開，也可表示把東西留在某處。"
+   },
+   {
+     "id":"w070",
+@@ -626,8 +833,11 @@
+     "english":"listen",
+     "chinese":"聆聽",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will listen this task today.",
+-    "exampleChinese":"我今天會聆聽這個任務。"
++    "exampleEnglish":"Please listen to the instructions before you start.",
++    "exampleChinese":"開始前請先聽指示。",
++    "scene":"課堂 / 活動說明",
++    "collocation":"listen to someone/something",
++    "note":"listen 後面接受詞時要加 to。"
+   },
+   {
+     "id":"w071",
+@@ -635,8 +845,11 @@
+     "english":"manage",
+     "chinese":"管理",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will manage this task today.",
+-    "exampleChinese":"我今天會管理這個任務。"
++    "exampleEnglish":"She manages a small team of designers.",
++    "exampleChinese":"她管理一個小型設計師團隊。",
++    "scene":"職場 / 團隊管理",
++    "collocation":"manage a team/project/business",
++    "note":"manage 可表示管理，也可表示設法做到。"
+   },
+   {
+     "id":"w072",
+@@ -644,8 +857,11 @@
+     "english":"measure",
+     "chinese":"測量",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will measure this task today.",
+-    "exampleChinese":"我今天會測量這個任務。"
++    "exampleEnglish":"The nurse measured my temperature before I saw the doctor.",
++    "exampleChinese":"看醫生前，護士先量了我的體溫。",
++    "scene":"醫療 / 看診",
++    "collocation":"measure temperature/height/distance",
++    "note":"measure 是測量具體數值。"
+   },
+   {
+     "id":"w073",
+@@ -653,8 +869,11 @@
+     "english":"mention",
+     "chinese":"提到",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will mention this task today.",
+-    "exampleChinese":"我今天會提到這個任務。"
++    "exampleEnglish":"He mentioned a cheaper hotel near the station.",
++    "exampleChinese":"他提到車站附近有一間比較便宜的旅館。",
++    "scene":"旅遊 / 討論住宿",
++    "collocation":"mention something to someone",
++    "note":"mention 是順便提到，語氣比 discuss 輕。"
+   },
+   {
+     "id":"w074",
+@@ -662,8 +881,11 @@
+     "english":"notice",
+     "chinese":"注意到",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will notice this task today.",
+-    "exampleChinese":"我今天會注意到這個任務。"
++    "exampleEnglish":"I didn’t notice the message until this morning.",
++    "exampleChinese":"我直到今天早上才注意到那則訊息。",
++    "scene":"日常 / 訊息",
++    "collocation":"notice a message/change/problem",
++    "note":"notice 是察覺到，不一定是刻意查看。"
+   },
+   {
+     "id":"w075",
+@@ -671,8 +893,11 @@
+     "english":"offer",
+     "chinese":"提供",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will offer this task today.",
+-    "exampleChinese":"我今天會提供這個任務。"
++    "exampleEnglish":"The shop offered me a refund instead of a replacement.",
++    "exampleChinese":"店家提供退款給我，而不是換貨。",
++    "scene":"購物 / 售後服務",
++    "collocation":"offer someone something / offer to do",
++    "note":"offer 表示主動提供。"
+   },
+   {
+     "id":"w076",
+@@ -680,8 +905,11 @@
+     "english":"open",
+     "chinese":"打開",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will open this task today.",
+-    "exampleChinese":"我今天會打開這個任務。"
++    "exampleEnglish":"Open the app and tap the blue button.",
++    "exampleChinese":"打開 App，然後點藍色按鈕。",
++    "scene":"科技 / App 操作",
++    "collocation":"open an app/file/door",
++    "note":"open 可用於門、檔案、App 或商店營業。"
+   },
+   {
+     "id":"w077",
+@@ -689,8 +917,11 @@
+     "english":"order",
+     "chinese":"訂購",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will order this task today.",
+-    "exampleChinese":"我今天會訂購這個任務。"
++    "exampleEnglish":"We ordered noodles because the restaurant was too busy to cook at home.",
++    "exampleChinese":"我們點了麵，因為餐廳外送比在家煮方便。",
++    "scene":"外送 / 訂餐",
++    "collocation":"order food/drinks/online",
++    "note":"order 可表示點餐、訂購，也可表示命令。"
+   },
+   {
+     "id":"w078",
+@@ -698,8 +929,11 @@
+     "english":"paint",
+     "chinese":"上色",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will paint this task today.",
+-    "exampleChinese":"我今天會上色這個任務。"
++    "exampleEnglish":"We painted the bedroom light blue last weekend.",
++    "exampleChinese":"我們上週末把臥室漆成淺藍色。",
++    "scene":"居家 / 裝修",
++    "collocation":"paint a room/wall/picture",
++    "note":"paint 可指油漆牆面或畫畫。"
+   },
+   {
+     "id":"w079",
+@@ -707,8 +941,11 @@
+     "english":"pass",
+     "chinese":"通過",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will pass this task today.",
+-    "exampleChinese":"我今天會通過這個任務。"
++    "exampleEnglish":"I passed the driving test on my second try.",
++    "exampleChinese":"我第二次嘗試時通過了駕照考試。",
++    "scene":"考試 / 駕照",
++    "collocation":"pass a test/exam",
++    "note":"pass 表示通過考試；也可表示遞東西給某人。"
+   },
+   {
+     "id":"w080",
+@@ -716,8 +953,11 @@
+     "english":"pick",
+     "chinese":"挑選",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will pick this task today.",
+-    "exampleChinese":"我今天會挑選這個任務。"
++    "exampleEnglish":"Pick a time that works for everyone.",
++    "exampleChinese":"挑一個大家都方便的時間。",
++    "scene":"工作 / 約時間",
++    "collocation":"pick a time/place/name",
++    "note":"pick 比 choose 更口語，常用於日常選擇。"
+   },
+   {
+     "id":"w081",
+@@ -725,8 +965,11 @@
+     "english":"plan",
+     "chinese":"計畫",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will plan this task today.",
+-    "exampleChinese":"我今天會計畫這個任務。"
++    "exampleEnglish":"We planned a short trip for the long weekend.",
++    "exampleChinese":"我們為連假安排了一趟短旅行。",
++    "scene":"旅遊 / 行程安排",
++    "collocation":"plan a trip/event/schedule",
++    "note":"plan 可作動詞也可作名詞。"
+   },
+   {
+     "id":"w082",
+@@ -734,8 +977,11 @@
+     "english":"practice",
+     "chinese":"練習",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will practice this task today.",
+-    "exampleChinese":"我今天會練習這個任務。"
++    "exampleEnglish":"I practice speaking English with my roommate every night.",
++    "exampleChinese":"我每天晚上和室友練習說英文。",
++    "scene":"學習 / 口說練習",
++    "collocation":"practice + V-ing",
++    "note":"practice 後面接 V-ing，不接 to V。"
+   },
+   {
+     "id":"w083",
+@@ -743,8 +989,11 @@
+     "english":"prefer",
+     "chinese":"偏好",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will prefer this task today.",
+-    "exampleChinese":"我今天會偏好這個任務。"
++    "exampleEnglish":"I prefer coffee without sugar.",
++    "exampleChinese":"我比較喜歡不加糖的咖啡。",
++    "scene":"餐飲 / 點飲料",
++    "collocation":"prefer A to B / prefer + V-ing",
++    "note":"prefer 表示偏好，語氣比 like 更明確。"
+   },
+   {
+     "id":"w084",
+@@ -752,8 +1001,11 @@
+     "english":"promise",
+     "chinese":"承諾",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will promise this task today.",
+-    "exampleChinese":"我今天會承諾這個任務。"
++    "exampleEnglish":"She promised to call me when she got home.",
++    "exampleChinese":"她答應到家後會打電話給我。",
++    "scene":"家庭 / 安全確認",
++    "collocation":"promise to do something",
++    "note":"promise 後面常接 to V，表示承諾做某事。"
+   },
+   {
+     "id":"w085",
+@@ -761,8 +1013,11 @@
+     "english":"push",
+     "chinese":"推",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will push this task today.",
+-    "exampleChinese":"我今天會推這個任務。"
++    "exampleEnglish":"Push the door harder; it’s a little stuck.",
++    "exampleChinese":"門有點卡住，再用力推一下。",
++    "scene":"日常 / 開門",
++    "collocation":"push a door/button/cart",
++    "note":"push 是推；pull 是拉，別混淆。"
+   },
+   {
+     "id":"w086",
+@@ -770,8 +1025,11 @@
+     "english":"reach",
+     "chinese":"到達",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will reach this task today.",
+-    "exampleChinese":"我今天會到達這個任務。"
++    "exampleEnglish":"We reached the hotel just before midnight.",
++    "exampleChinese":"我們快半夜時才抵達飯店。",
++    "scene":"旅遊 / 抵達住宿",
++    "collocation":"reach a place/goal/decision",
++    "note":"reach 後面直接接地點，不用 at。"
+   },
+   {
+     "id":"w087",
+@@ -779,8 +1037,11 @@
+     "english":"receive",
+     "chinese":"收到",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will receive this task today.",
+-    "exampleChinese":"我今天會收到這個任務。"
++    "exampleEnglish":"I received a confirmation email right after I paid.",
++    "exampleChinese":"我付款後馬上收到確認信。",
++    "scene":"網購 / 付款確認",
++    "collocation":"receive an email/message/package",
++    "note":"receive 較正式；日常口語也常用 get。"
+   },
+   {
+     "id":"w088",
+@@ -788,8 +1049,11 @@
+     "english":"repeat",
+     "chinese":"重複",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will repeat this task today.",
+-    "exampleChinese":"我今天會重複這個任務。"
++    "exampleEnglish":"Could you repeat the last sentence more slowly?",
++    "exampleChinese":"你可以把最後一句再慢慢重複一次嗎？",
++    "scene":"學習 / 聽力",
++    "collocation":"repeat a word/sentence/question",
++    "note":"repeat 是再說或再做一次。"
+   },
+   {
+     "id":"w089",
+@@ -797,8 +1061,11 @@
+     "english":"report",
+     "chinese":"報告",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will report this task today.",
+-    "exampleChinese":"我今天會報告這個任務。"
++    "exampleEnglish":"Please report the problem if the app crashes again.",
++    "exampleChinese":"如果 App 又閃退，請回報這個問題。",
++    "scene":"科技 / App 問題",
++    "collocation":"report a problem/bug/accident",
++    "note":"report 通常用於正式回報問題或事件。"
+   },
+   {
+     "id":"w090",
+@@ -806,8 +1073,11 @@
+     "english":"return",
+     "chinese":"返回",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will return this task today.",
+-    "exampleChinese":"我今天會返回這個任務。"
++    "exampleEnglish":"I need to return these shoes because they don’t fit.",
++    "exampleChinese":"我需要退回這雙鞋，因為尺寸不合。",
++    "scene":"購物 / 退貨",
++    "collocation":"return an item / return to a place",
++    "note":"return 可表示退貨，也可表示返回某地。"
+   },
+   {
+     "id":"w091",
+@@ -815,8 +1085,11 @@
+     "english":"review",
+     "chinese":"複習",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will review this task today.",
+-    "exampleChinese":"我今天會複習這個任務。"
++    "exampleEnglish":"Let’s review the notes before tomorrow’s quiz.",
++    "exampleChinese":"我們在明天小考前複習一下筆記吧。",
++    "scene":"學習 / 考前複習",
++    "collocation":"review notes/materials",
++    "note":"review 是再次查看以準備或檢查。"
+   },
+   {
+     "id":"w092",
+@@ -824,8 +1097,11 @@
+     "english":"save",
+     "chinese":"儲存",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will save this task today.",
+-    "exampleChinese":"我今天會儲存這個任務。"
++    "exampleEnglish":"Save the file before you close the program.",
++    "exampleChinese":"關閉程式前先儲存檔案。",
++    "scene":"科技 / 檔案",
++    "collocation":"save a file/money/time",
++    "note":"save 可表示儲存、節省或拯救。"
+   },
+   {
+     "id":"w093",
+@@ -833,8 +1109,11 @@
+     "english":"search",
+     "chinese":"搜尋",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will search this task today.",
+-    "exampleChinese":"我今天會搜尋這個任務。"
++    "exampleEnglish":"I searched online for reviews before booking the hotel.",
++    "exampleChinese":"訂飯店前，我上網搜尋評價。",
++    "scene":"旅遊 / 查評價",
++    "collocation":"search online / search for something",
++    "note":"search for 後接要找的東西。"
+   },
+   {
+     "id":"w094",
+@@ -842,8 +1121,11 @@
+     "english":"select",
+     "chinese":"選擇",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will select this task today.",
+-    "exampleChinese":"我今天會選擇這個任務。"
++    "exampleEnglish":"Select your language before you start the app.",
++    "exampleChinese":"開始使用 App 前，先選擇你的語言。",
++    "scene":"科技 / App 設定",
++    "collocation":"select an option/language/file",
++    "note":"select 比 choose 稍正式，常見於介面操作。"
+   },
+   {
+     "id":"w095",
+@@ -851,8 +1133,11 @@
+     "english":"share",
+     "chinese":"分享",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will share this task today.",
+-    "exampleChinese":"我今天會分享這個任務。"
++    "exampleEnglish":"Can you share the meeting link in the group chat?",
++    "exampleChinese":"你可以把會議連結分享到群組嗎？",
++    "scene":"工作 / 線上會議",
++    "collocation":"share a link/file/story",
++    "note":"share 可表示分享資訊、檔案或經驗。"
+   },
+   {
+     "id":"w096",
+@@ -860,8 +1145,11 @@
+     "english":"show",
+     "chinese":"展示",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will show this task today.",
+-    "exampleChinese":"我今天會展示這個任務。"
++    "exampleEnglish":"Show the QR code to the staff at the entrance.",
++    "exampleChinese":"在入口處把 QR code 給工作人員看。",
++    "scene":"活動 / 入場",
++    "collocation":"show someone something",
++    "note":"show 可表示展示、出示或教人操作。"
+   },
+   {
+     "id":"w097",
+@@ -869,8 +1157,11 @@
+     "english":"solve",
+     "chinese":"解決",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will solve this task today.",
+-    "exampleChinese":"我今天會解決這個任務。"
++    "exampleEnglish":"We solved the problem by restarting the router.",
++    "exampleChinese":"我們透過重開路由器解決了問題。",
++    "scene":"科技 / 網路故障",
++    "collocation":"solve a problem/puzzle",
++    "note":"solve 用於解決問題、謎題；處理狀況可用 handle。"
+   },
+   {
+     "id":"w098",
+@@ -878,8 +1169,11 @@
+     "english":"spend",
+     "chinese":"花費",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will spend this task today.",
+-    "exampleChinese":"我今天會花費這個任務。"
++    "exampleEnglish":"I spent too much money on snacks this week.",
++    "exampleChinese":"我這週在零食上花太多錢了。",
++    "scene":"日常 / 花費",
++    "collocation":"spend money/time on something",
++    "note":"spend 後常接時間或金錢，再接 on。"
+   },
+   {
+     "id":"w099",
+@@ -887,8 +1181,11 @@
+     "english":"start",
+     "chinese":"開始",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will start this task today.",
+-    "exampleChinese":"我今天會開始這個任務。"
++    "exampleEnglish":"The movie starts in ten minutes, so let’s go inside.",
++    "exampleChinese":"電影十分鐘後開始，所以我們進去吧。",
++    "scene":"休閒 / 看電影",
++    "collocation":"start at/in/on / start doing",
++    "note":"start 可作及物或不及物，表示開始。"
+   },
+   {
+     "id":"w100",
+@@ -896,8 +1193,11 @@
+     "english":"stop",
+     "chinese":"停止",
+     "partOfSpeech":"動詞",
+-    "exampleEnglish":"I will stop this task today.",
+-    "exampleChinese":"我今天會停止這個任務。"
++    "exampleEnglish":"The bus stopped right in front of the station.",
++    "exampleChinese":"公車正好停在車站前面。",
++    "scene":"交通 / 公車",
++    "collocation":"stop at/in front of / stop doing",
++    "note":"stop doing 是停止做某事；stop to do 是停下來去做某事。"
+   },
+   {
+     "id":"w101",
